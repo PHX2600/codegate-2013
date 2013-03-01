@@ -1,0 +1,102 @@
+<!-- saved from url=(0061)http://www.hackerschool.org/HS_Boards/login.php?id=Free_Board -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-949">
+	<title></title>
+	<meta http-equiv="Content-Type" content="text/html;" charset="EUC-KR">
+	<link rel="StyleSheet" href="./login.php_files/style.css" type="text/css" title="style">
+	<script language="JavaScript">
+	</script>
+	</head>
+<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="white">
+			<div align="center">			<table border="0" cellspacing="0" cellpadding="0" width="height=1" style="table-layout:fixed;"><colgroup><col width="100%"></colgroup><tbody><tr><td><img src="./login.php_files/t.gif" border="0" width="98%" height="1" name="zb_get_table_width"><br><img src="./login.php_files/t.gif" border="0" name="zb_target_resize" width="1" height="1"></td></tr></tbody></table>
+			
+<script>
+ function check_submit()
+ {
+  if(!login.user_id.value)
+  {
+   alert("fill the box");
+   login.user_id.focus();
+   return false;
+  }
+  if(!login.password.value)
+  {
+   alert("fill the box");
+   login.password.focus();
+   return false;
+  }
+  check=confirm("auto login?");
+  if(check) {login.auto_login.value=1;}
+  return true;
+ }
+</script>
+
+<form method="post" action="./login_check.php" onsubmit="return check_submit();" name="login">
+<input type="hidden" name="auto_login" value="0">
+<input type="hidden" name="page" value="">
+<input type="hidden" name="id" value="Free_Board">
+<input type="hidden" name="no" value="">
+<input type="hidden" name="select_arrange" value="">
+<input type="hidden" name="desc" value="">
+<input type="hidden" name="page_num" value="">
+<input type="hidden" name="keyword" value="">
+<input type="hidden" name="category" value="">
+<input type="hidden" name="sn" value="">
+<input type="hidden" name="ss" value="">
+<input type="hidden" name="sc" value="">
+<input type="hidden" name="mode" value="">
+<input type="hidden" name="s_url" value="">
+<input type="hidden" name="referer" value="">
+
+<div align="center">
+<br><br><br>
+<table border="0" cellspacing="0" cellpadding="0" width="250">
+<tbody><tr>
+ <td><img src="./login.php_files/h_left.gif" border="0"></td>
+ <td background="./login.php_files/h_bg.gif" width="100%"><img src="./login.php_files/mem.gif" border="0"></td>
+ <td><img src="./login.php_files/h_right.gif" border="0"></td>
+</tr>
+</tbody></table>
+<table border="0" width="250">
+<tbody><tr>
+  <td align="center" colspan="2" style="font-family:gulim;font-size:9pt"><img src="./login.php_files/login_logo.gif" border="0"></td>
+</tr>
+<tr>
+  <td align="right" style="font-family:tahoma"><img src="./login.php_files/login_id.gif" border="0">&nbsp;</td>
+  <td align="center"><input type="text" name="user_id" size="20" maxlength="20" class="input"></td>
+</tr>
+<tr>
+  <td align="right" style="font-family:tahoma"><img src="./login.php_files/login_pass.gif" border="0">&nbsp;</td>
+  <td align="center"><input type="password" name="password" size="20" maxlength="20" class="input"></td>
+</tr>
+<tr height="30">
+  <td align="center" colspan="2">
+      <input type="image" src="./login.php_files/l_login.gif" border="0"> &nbsp;
+      <a href="javascript:void(history.back())"><img src="./login.php_files/l_back.gif" border="0"></a>
+  </td>
+</tr>
+</tbody></table>
+
+<a href="./site.tgz">get source</a>
+
+<!--
+			<table border="0" cellpadding="0" cellspacing="0" height="20" width="">
+			<tbody><tr>
+				<td align="right" style="font-family:tahoma,gulim;font-size:8pt;line-height:150%;letter-spacing:0px">
+					<br><font style="font-size:7pt"></font><center><font style="font-size:7pt">Copyright 1999-2013</font> <a href="http://www.zeroboard.com/" target="_blank" onfocus="blur()"><font style="font-family:tahoma,gulim;font-size:8pt;">Zeroboard</font></a><font style="font-family:tahoma,gulim;font-size:8pt;"> / skin by <a href="http://hackerschool.org/" target="_blank">Hackerschool.org</a> / Secure Patch by <a href="http://hackerschool.org/" target="_blank">Hackerschool.org</a> &amp; <a href="http://wowhacker.com/" target="_blank">Wowhacker.com</a><br><br>
+				</font></center></td>   
+			</tr>
+			</tbody></table>
+-->
+			</div></form>
+
+
+			
+
+<!--
+ Session Excuted  : 0.0001
+ Connect Checked  : 0.0005
+ PHP Excuted  : 0.002
+ Total Excuted Time : 0.003
+-->
+
+</div></body></html>
