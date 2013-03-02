@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>groupName</key>
+		<string>즉시 할인카드</string>
+		<key>payments</key>
+		<array>
+			<dict>
+				<key>paymentName</key>
+				<string>BC카드</string>
+				<key>paymentTag</key>
+				<integer>1000</integer>
+			</dict>
+			<dict>
+				<key>paymentName</key>
+				<string>외환카드</string>
+				<key>paymentTag</key>
+				<integer>1001</integer>
+			</dict>
+			<dict>
+				<key>paymentName</key>
+				<string>CJ 씨티카드</string>
+				<key>paymentTag</key>
+				<integer>1002</integer>
+			</dict>
+			<dict>
+				<key>paymentName</key>
+				<string>CJONE 삼성</string>
+				<key>paymentTag</key>
+				<integer>1003</integer>
+			</dict>
+			<dict>
+				<key>paymentName</key>
+				<string>CJONE 신한</string>
+				<key>paymentTag</key>
+				<integer>1004</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>groupName</key>
+		<string>신용카드</string>
+		<key>payments</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>groupName</key>
+		<string>포인트 할인</string>
+		<key>payments</key>
+		<array>
+			<dict>
+				<key>paymentName</key>
+				<string>CJONE 포인트</string>
+				<key>paymentTag</key>
+				<integer>4000</integer>
+			</dict>
+			<dict>
+				<key>paymentName</key>
+				<string>OK 캐쉬백</string>
+				<key>paymentTag</key>
+				<integer>4001</integer>
+			</dict>
+			<dict>
+				<key>paymentName</key>
+				<string>GS&amp;POINT</string>
+				<key>paymentTag</key>
+				<integer>4002</integer>
+			</dict>
+			<dict>
+				<key>paymentName</key>
+				<string>CGV멤버십 포인트</string>
+				<key>paymentTag</key>
+				<integer>4003</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>groupName</key>
+		<string>통신사 요금제</string>
+		<key>payments</key>
+		<array>
+			<dict>
+				<key>paymentName</key>
+				<string>LGU+ 스마트폰 요금제</string>
+				<key>paymentTag</key>
+				<integer>5000</integer>
+			</dict>
+			<dict>
+				<key>paymentName</key>
+				<string>LGU+ LTE 요금제</string>
+				<key>paymentTag</key>
+				<integer>5001</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>groupName</key>
+		<string>영화쿠폰 / 관람권</string>
+		<key>payments</key>
+		<array>
+			<dict>
+				<key>paymentName</key>
+				<string>영화관람권</string>
+				<key>paymentTag</key>
+				<integer>6000</integer>
+			</dict>
+			<dict>
+				<key>paymentName</key>
+				<string>VIP쿠폰</string>
+				<key>paymentTag</key>
+				<integer>6001</integer>
+			</dict>
+			<dict>
+				<key>paymentName</key>
+				<string>기프티쇼</string>
+				<key>paymentTag</key>
+				<integer>6002</integer>
+			</dict>
+			<dict>
+				<key>paymentName</key>
+				<string>기프트콘</string>
+				<key>paymentTag</key>
+				<integer>6003</integer>
+			</dict>
+			<dict>
+				<key>paymentName</key>
+				<string>올레쿡 인터넷쿠폰</string>
+				<key>paymentTag</key>
+				<integer>6004</integer>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

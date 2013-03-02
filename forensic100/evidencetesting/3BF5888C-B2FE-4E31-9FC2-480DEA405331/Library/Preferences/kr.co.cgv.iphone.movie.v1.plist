@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WebDatabaseDirectory</key>
+	<string>/var/mobile/Applications/3BF5888C-B2FE-4E31-9FC2-480DEA405331/Library/Caches</string>
+	<key>WebKitDiskImageCacheSavedCacheDirectory</key>
+	<string></string>
+	<key>WebKitLocalStorageDatabasePathPreferenceKey</key>
+	<string>/var/mobile/Applications/3BF5888C-B2FE-4E31-9FC2-480DEA405331/Library/Caches</string>
+	<key>WebKitOfflineWebApplicationCacheEnabled</key>
+	<true/>
+	<key>WebKitShrinksStandaloneImagesToFit</key>
+	<true/>
+	<key>cachenewdate</key>
+	<string>2012.12.27</string>
+	<key>kMobileEventStopDisplayUserDefault</key>
+	<true/>
+	<key>kMobileEventURLUserDefault</key>
+	<string>http://m.cgv.co.kr/WebApp/AppGate/EventNotiPopup.aspx</string>
+	<key>strartViewIdx</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_file_support</string>
+		<key>shortTitle</key>
+		<string>Anzeigbare Dateien</string>
+		<key>title</key>
+		<string>Welche Dateien kann ich einsehen?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_share</string>
+		<key>shortTitle</key>
+		<string>Dateien freigeben</string>
+		<key>title</key>
+		<string>Wie kann ich Dateien freigeben?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_favorites</string>
+		<key>shortTitle</key>
+		<string>Offline-Dateien</string>
+		<key>title</key>
+		<string>Wie zeige ich Dateien offline an?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_video</string>
+		<key>shortTitle</key>
+		<string>Video abspielen</string>
+		<key>title</key>
+		<string>Wie spiele ich Videos ab?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_upload</string>
+		<key>shortTitle</key>
+		<string>Dateien hochladen</string>
+		<key>title</key>
+		<string>Wie lade ich Dateien hoch?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_location_permission</string>
+		<key>shortTitle</key>
+		<string>Standortdaten Erlaubnis</string>
+		<key>title</key>
+		<string>Warum verlangen Sie Ortsdaten?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_passcode</string>
+		<key>shortTitle</key>
+		<string>Pin-Code</string>
+		<key>title</key>
+		<string>Wie kann ich eine Pin-Code?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_store</string>
+		<key>shortTitle</key>
+		<string>Speicherbegrenzungen</string>
+		<key>title</key>
+		<string>Wie groß ist mein Speicher?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_delete</string>
+		<key>shortTitle</key>
+		<string>Dateien löschen</string>
+		<key>title</key>
+		<string>Wie lösche ich Dateien?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_camera_upload</string>
+		<key>shortTitle</key>
+		<string>Camera Upload</string>
+		<key>title</key>
+		<string>How do I use Camera Upload?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_syncing</string>
+		<key>shortTitle</key>
+		<string>Mobile Syncing</string>
+		<key>title</key>
+		<string>How does syncing work?</string>
+	</dict>
+</array>
+</plist>

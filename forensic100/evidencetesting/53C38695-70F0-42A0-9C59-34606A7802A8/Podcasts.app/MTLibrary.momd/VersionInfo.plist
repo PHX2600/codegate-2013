@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>MTLibrary 2</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>MTLibrary</key>
+		<dict>
+			<key>MTCategory</key>
+			<data>
+			0Uye7/ckiCk1LE3V/65xA42mhyHnBDhBeqjbldoeLYI=
+			</data>
+			<key>MTEpisode</key>
+			<data>
+			NCjRakghRdlFEXQ+zEu8q5ycECl5sbgG6IHv8pQxZFM=
+			</data>
+			<key>MTPodcast</key>
+			<data>
+			iA6x5i0oHG7kGARFuloAhWAdf0XmbpvCUm6fpexscGQ=
+			</data>
+			<key>MTPodcastCategory</key>
+			<data>
+			81xloo8uOFCuIsHRThhh1dtqiqb3RSxmC/F0mZ6LN0A=
+			</data>
+		</dict>
+		<key>MTLibrary 2</key>
+		<dict>
+			<key>MTCategory</key>
+			<data>
+			0Uye7/ckiCk1LE3V/65xA42mhyHnBDhBeqjbldoeLYI=
+			</data>
+			<key>MTEpisode</key>
+			<data>
+			QEocqvSskHtEiVWDNmy2yTfu/UO59Dq7uaYGC5Swf/U=
+			</data>
+			<key>MTPodcast</key>
+			<data>
+			KUpmmINYy3A5sb18+zbf+aAevJmFzJz00otwq0UIu8s=
+			</data>
+			<key>MTPodcastCategory</key>
+			<data>
+			81xloo8uOFCuIsHRThhh1dtqiqb3RSxmC/F0mZ6LN0A=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WebDatabaseDirectory</key>
+	<string>/var/mobile/Applications/7C0D5811-A2CC-4E45-A0D1-2600B299C54D/Library/Caches</string>
+	<key>WebKitDiskImageCacheSavedCacheDirectory</key>
+	<string></string>
+	<key>WebKitLocalStorageDatabasePathPreferenceKey</key>
+	<string>/var/mobile/Applications/7C0D5811-A2CC-4E45-A0D1-2600B299C54D/Library/Caches</string>
+	<key>WebKitOfflineWebApplicationCacheEnabled</key>
+	<true/>
+	<key>WebKitShrinksStandaloneImagesToFit</key>
+	<true/>
+</dict>
+</plist>

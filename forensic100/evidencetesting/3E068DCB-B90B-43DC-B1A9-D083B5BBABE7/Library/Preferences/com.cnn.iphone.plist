@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HasLoggedOutAfterNewAppDownload</key>
+	<string>NO</string>
+	<key>NavDropDragCoachmark</key>
+	<string>NO</string>
+	<key>NumberOfSectionsViewed</key>
+	<integer>2</integer>
+	<key>TVETracking</key>
+	<string>None</string>
+	<key>WebDatabaseDirectory</key>
+	<string>/var/mobile/Applications/3E068DCB-B90B-43DC-B1A9-D083B5BBABE7/Library/Caches</string>
+	<key>WebKitDiskImageCacheSavedCacheDirectory</key>
+	<string></string>
+	<key>WebKitLocalStorageDatabasePathPreferenceKey</key>
+	<string>/var/mobile/Applications/3E068DCB-B90B-43DC-B1A9-D083B5BBABE7/Library/Caches</string>
+	<key>WebKitMediaPlaybackAllowsInline</key>
+	<true/>
+	<key>WebKitMediaPlaybackRequiresUserGesture</key>
+	<false/>
+	<key>WebKitOfflineWebApplicationCacheEnabled</key>
+	<true/>
+	<key>WebKitShrinksStandaloneImagesToFit</key>
+	<true/>
+	<key>adPreference</key>
+	<string>International</string>
+	<key>kAppiraterCurrentVersion</key>
+	<string>4053</string>
+	<key>kAppiraterFirstUseDate</key>
+	<real>1356579015.8284459</real>
+	<key>kAppiraterUseCount</key>
+	<integer>2</integer>
+	<key>newsPreference</key>
+	<string>International</string>
+	<key>notifyDeviceToken</key>
+	<string>2dc68c0d035a0aa9a7c66deddbdf325111d375b48de59274f9a7919d61881530</string>
+	<key>timesOpened</key>
+	<string>2</string>
+	<key>updatePreferenceAdsOneTime</key>
+	<true/>
+</dict>
+</plist>

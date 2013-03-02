@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>QueuedUploads 1.5.6</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>QueuedUploads</key>
+		<dict>
+			<key>QueuedUpload</key>
+			<data>
+			VjSCzGnPMZm+BeSXF4soxjAbaOZXoAPdG0traSsDJvU=
+			</data>
+		</dict>
+		<key>QueuedUploads 1.5</key>
+		<dict>
+			<key>QueuedUpload</key>
+			<data>
+			CrdjHjIT2VQ30ZXYdsNre4vd/noAU2sJwhz3Go3sNWs=
+			</data>
+		</dict>
+		<key>QueuedUploads 1.5.5</key>
+		<dict>
+			<key>QueuedUpload</key>
+			<data>
+			ysf5I5PHn0qFke6+oXkRaDC5tfn13vHBms0uaLXSF54=
+			</data>
+		</dict>
+		<key>QueuedUploads 1.5.6</key>
+		<dict>
+			<key>QueuedUpload</key>
+			<data>
+			qr70C9/6AY0KgIe8KfwZI5GZdTUfKAjpU9sTp988nYE=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,562 @@
+2012-12-27 17:57:05.857 Dropbox[352:907] [INFO] Release build
+2012-12-27 17:57:05.908 Dropbox[352:1803] [ANALYTICS] {"sys_model":"iPhone3,1","LOG_SERIES_UUID":"E7E63DD8-9642-4D89-B93F-07F83A6C0B52","LOCALE":"ko_KR","sys_version":"6.0","app_platform":"ios","event":"open.log","device_id":"A1E670A9-1CFB-43D1-BD12-1D994590588C","MANUFACTURER":"Apple","boot_ts":"17430.63","app_version":"2.0","ts":"1356598625.91","log_level":"ANALYTICS","LOG_SEQUENCE_NUMBER":1}
+2012-12-27 17:57:05.922 Dropbox[352:1803] [ANALYTICS] {"is_core":true,"ts":"1356598625.92","boot_ts":"17430.64","event":"app.launch"}
+2012-12-27 17:57:06.237 Dropbox[352:907] [ERROR] CameraUploadAlbumViewController#persistentStoreCoordinator: failed to read source metadata, error (null)
+2012-12-27 17:57:06.241 Dropbox[352:1803] [ANALYTICS] {"boot_ts":"17430.96","ts":"1356598626.24","msg":"[ERROR] CameraUploadAlbumViewController#persistentStoreCoordinator: failed to read source metadata, error (null)","event":"app.error"}
+2012-12-27 17:57:06.566 Dropbox[352:907] Two-stage rotation animation is deprecated. This application should use the smoother single-stage animation.
+2012-12-27 17:57:06.578 Dropbox[352:907] Two-stage rotation animation is deprecated. This application should use the smoother single-stage animation.
+2012-12-27 17:57:06.594 Dropbox[352:907] [INFO] SVC -(void)setState:(SetupViewControllerState) aState
+2012-12-27 17:57:06.596 Dropbox[352:907] [INFO] SVC -(void)setState:(SetupViewControllerState) aState -- doing state setup
+2012-12-27 17:57:06.640 Dropbox[352:3a07] [ANALYTICS] {"boot_ts":"17431.36","ts":"1356598626.64","orientation":1,"event":"screen.view","screen":"SetupViewController"}
+2012-12-27 17:57:06.694 Dropbox[352:907] [INFO] - (void)applicationDidBecomeActive:(UIApplication*)application
+2012-12-27 17:57:06.698 Dropbox[352:907] [INFO] Memory Capacity with 13607 MiB Free memory available.
+2012-12-27 17:57:06.824 Dropbox[352:1803] [ANALYTICS] {"boot_ts":"17431.54","ts":"1356598626.82","new_state":1,"old_state":0,"event":"cu.state_transition"}
+2012-12-27 17:57:06.828 Dropbox[352:1803] [ANALYTICS] {"boot_ts":"17431.55","ts":"1356598626.83","manual_uploads":0,"camera_uploads":0,"event":"app.badge"}
+2012-12-27 17:57:06.974 Dropbox[352:3a07] [ANALYTICS] {"boot_ts":"17431.70","event":"tour.start","ts":"1356598626.97"}
+2012-12-27 17:57:07.509 Dropbox[352:3a07] [ANALYTICS] {"boot_ts":"17432.23","ts":"1356598627.51","orientation":1,"event":"screen.view","screen":"GenericTourController"}
+2012-12-27 17:57:08.827 Dropbox[352:3a07] [ANALYTICS] {"boot_ts":"17433.55","ts":"1356598628.83","action":"dismissTour:","event":"control.change"}
+2012-12-27 17:57:08.860 Dropbox[352:907] [INFO] SVC -(void)setState:(SetupViewControllerState) aState
+2012-12-27 17:57:08.862 Dropbox[352:907] [INFO] SVC -(void)setState:(SetupViewControllerState) aState -- doing state setup
+2012-12-27 17:57:08.899 Dropbox[352:3a07] [ANALYTICS] {"boot_ts":"17433.62","event":"tour.finish","ts":"1356598628.90"}
+2012-12-27 17:57:09.380 Dropbox[352:1803] [ANALYTICS] {"boot_ts":"17434.10","ts":"1356598629.38","orientation":1,"event":"screen.view","screen":"SetupViewController"}
+2012-12-27 17:57:12.049 Dropbox[352:907] [INFO] SVC -(void)setState:(SetupViewControllerState) aState
+2012-12-27 17:57:12.051 Dropbox[352:907] [INFO] SVC -(void)setState:(SetupViewControllerState) aState -- doing state setup
+2012-12-27 17:57:12.053 Dropbox[352:907] [INFO] SVC -(void)viewDidLoad
+2012-12-27 17:57:12.056 Dropbox[352:907] [INFO] SVC -(void)setState:(SetupViewControllerState) aState
+2012-12-27 17:57:12.058 Dropbox[352:907] [INFO] SVC -(void)setState:(SetupViewControllerState) aState -- doing state setup
+2012-12-27 17:57:12.597 Dropbox[352:3a07] [ANALYTICS] {"boot_ts":"17437.32","ts":"1356598632.60","orientation":1,"event":"screen.view","screen":"SetupViewController"}
+2012-12-27 17:57:35.857 Dropbox[352:907] [INFO] StartupTimerHandler#timerFired
+2012-12-27 17:57:36.281 Dropbox[352:907] [WARNING] DropboxSDK: error making request to /r2/login - Incorrect email or password
+2012-12-27 17:58:03.740 Dropbox[352:36b7] [ANALYTICS] {"sys_model":"iPhone3,1","LOG_SERIES_UUID":"6D88E680-EFDF-4D1E-BA23-7E1555DFBFA5","LOCALE":"ko_KR","sys_version":"6.0","app_platform":"ios","event":"open.log","device_id":"A1E670A9-1CFB-43D1-BD12-1D994590588C","MANUFACTURER":"Apple","boot_ts":"17488.46","app_version":"2.0","ts":"1356598683.74","log_level":"ANALYTICS","LOG_SEQUENCE_NUMBER":1}
+2012-12-27 17:58:03.761 Dropbox[352:36b7] [ANALYTICS] {"is_core":true,"ts":"1356598683.76","boot_ts":"17488.48","event":"app.link"}
+2012-12-27 17:58:05.127 Dropbox[352:1897] [ANALYTICS] {"boot_ts":"17489.85","ts":"1356598685.13","orientation":1,"event":"screen.view","screen":"CUTourMainViewController"}
+2012-12-27 17:58:10.915 Dropbox[352:36b7] [ANALYTICS] {"boot_ts":"17495.64","ts":"1356598690.92","action":"enable:","event":"control.change"}
+2012-12-27 17:58:11.176 Dropbox[352:3a2b] [ANALYTICS] {"boot_ts":"17495.90","event":"permission.photos.granted","ts":"1356598691.18"}
+2012-12-27 17:58:11.189 Dropbox[352:3a2b] [ANALYTICS] {"boot_ts":"17495.91","ts":"1356598691.19","upload_using_cell":false,"event":"cu_tour.enabled"}
+2012-12-27 17:58:11.201 Dropbox[352:3a2b] [ANALYTICS] {"boot_ts":"17495.92","event":"cu_tour.shown","ts":"1356598691.20"}
+2012-12-27 17:58:11.594 Dropbox[352:660f] [ANALYTICS] {"boot_ts":"17496.31","event":"permission.photos.granted","ts":"1356598691.59"}
+2012-12-27 17:58:11.628 Dropbox[352:3a2b] [ANALYTICS] {"boot_ts":"17496.35","event":"permission.photos.granted","ts":"1356598691.63"}
+2012-12-27 17:58:11.715 Dropbox[352:907] Warning: Attempt to present <PasscodeBackgroundController: 0x1f1e62a0> on <DBTabBarController: 0x1e5cc430> whose view is not in the window hierarchy!
+2012-12-27 17:58:11.721 Dropbox[352:660f] [ANALYTICS] {"boot_ts":"17496.44","ts":"1356598691.72","new_state":0,"old_state":1,"event":"cu.state_transition"}
+2012-12-27 17:58:11.726 Dropbox[352:660f] [ANALYTICS] {"boot_ts":"17496.44","ts":"1356598691.72","manual_uploads":0,"camera_uploads":0,"event":"app.badge"}
+2012-12-27 17:58:11.895 Dropbox[352:907] [INFO] Error calling sqlite3_step (21: not an error) SQLITE_MISUSE
+2012-12-27 17:58:11.897 Dropbox[352:907] [INFO] DB Query: 
+2012-12-27 17:58:12.232 Dropbox[352:7113] [INFO] Finished finding assets, scanned assets number is 1
+2012-12-27 17:58:12.304 Dropbox[352:660f] [ANALYTICS] {"boot_ts":"17497.02","ts":"1356598692.30","assets_found":0,"event":"cu.scan_finished"}
+2012-12-27 17:58:12.306 Dropbox[352:660f] [ANALYTICS] {"boot_ts":"17497.03","ts":"1356598692.31","new_state":1,"old_state":0,"event":"cu.state_transition"}
+2012-12-27 17:58:12.308 Dropbox[352:660f] [ANALYTICS] {"boot_ts":"17497.03","ts":"1356598692.31","manual_uploads":0,"camera_uploads":0,"event":"app.badge"}
+2012-12-27 17:58:12.841 Dropbox[352:36b7] [ANALYTICS] {"boot_ts":"17497.56","ts":"1356598692.84","orientation":1,"event":"screen.view","screen":"CameraUploadAlbumViewController"}
+2012-12-27 17:58:13.237 Dropbox[352:907] [INFO] [Loading browser thumbnail id = 6
+2012-12-27 17:58:13.272 Dropbox[352:730f] [ANALYTICS] {"full_file":false,"extension":"png","id":6,"ts":"1356598693.27","boot_ts":"17497.99","connection":"wifi","event":"download.start","size":466537}
+2012-12-27 17:58:15.107 Dropbox[352:660f] [ANALYTICS] {"boot_ts":"17499.83","id":6,"ts":"1356598695.11","event":"download.success","extension":"png"}
+2012-12-27 17:58:16.736 Dropbox[352:730f] [ANALYTICS] {"boot_ts":"17501.44","ts":"1356598696.72","event":"cu.leaving_view","timeShowedPhotosTabFor":3.870437979698181}
+2012-12-27 17:58:16.927 Dropbox[352:36b7] [ANALYTICS] {"boot_ts":"17501.65","ts":"1356598696.93","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:58:16.958 Dropbox[352:36b7] [ANALYTICS] {"boot_ts":"17501.68","ts":"1356598696.96","cached":false,"path_hash":912,"event":"metadata.load.start"}
+2012-12-27 17:58:17.325 Dropbox[352:36b7] [ANALYTICS] {"boot_ts":"17502.04","ts":"1356598697.32","event":"metadata.load.success","path_hash":912}
+2012-12-27 17:58:17.821 Dropbox[352:907] [INFO] [Prefetching Metadata] id = 2567775896
+2012-12-27 17:58:17.829 Dropbox[352:907] [INFO] [Prefetching Metadata] id = 817691443
+2012-12-27 17:58:17.837 Dropbox[352:907] [INFO] [Prefetching Metadata] id = 3820750687
+2012-12-27 17:58:17.857 Dropbox[352:36b7] [ANALYTICS] {"boot_ts":"17502.58","ts":"1356598697.86","cached":false,"path_hash":2567775896,"event":"metadata.load.start"}
+2012-12-27 17:58:17.860 Dropbox[352:36b7] [ANALYTICS] {"boot_ts":"17502.58","ts":"1356598697.86","cached":false,"path_hash":817691443,"event":"metadata.load.start"}
+2012-12-27 17:58:17.863 Dropbox[352:36b7] [ANALYTICS] {"boot_ts":"17502.58","ts":"1356598697.86","cached":false,"path_hash":3820750687,"event":"metadata.load.start"}
+2012-12-27 17:58:18.195 Dropbox[352:36b7] [ANALYTICS] {"boot_ts":"17502.92","ts":"1356598698.20","event":"metadata.load.success","path_hash":2567775896}
+2012-12-27 17:58:18.650 Dropbox[352:907] [INFO] FileListController didSelectRowAtIndexPath: (33, 0)
+2012-12-27 17:58:18.858 Dropbox[352:660f] [ANALYTICS] {"boot_ts":"17503.58","ts":"1356598698.86","event":"metadata.load.success","path_hash":817691443}
+2012-12-27 17:58:18.892 Dropbox[352:660f] [ANALYTICS] {"boot_ts":"17503.61","ts":"1356598698.89","event":"metadata.load.success","path_hash":3820750687}
+2012-12-27 17:58:19.298 Dropbox[352:36b7] [ANALYTICS] {"boot_ts":"17504.02","ts":"1356598699.30","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:58:19.357 Dropbox[352:36b7] [ANALYTICS] {"boot_ts":"17504.08","ts":"1356598699.36","cached":true,"path_hash":3820750687,"event":"metadata.load.start"}
+2012-12-27 17:58:19.715 Dropbox[352:36b7] [ANALYTICS] {"boot_ts":"17504.44","ts":"1356598699.71","event":"metadata.load.unchanged","path_hash":3820750687}
+2012-12-27 17:58:33.011 Dropbox[352:907] [INFO] FileListController didSelectRowAtIndexPath: (40, 3)
+2012-12-27 17:58:33.023 Dropbox[352:907] [INFO] FileViewController - (id)initWithDirectoryEntry:, path = '/tim_folder/01010.txt'
+2012-12-27 17:58:33.069 Dropbox[352:907] [INFO] FileViewController - (void)viewWillAppear:(BOOL)animated 1
+2012-12-27 17:58:33.175 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:33.177 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:33.179 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:33.180 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:33.182 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:33.183 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:33.186 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:33.188 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:33.201 Dropbox[352:907] [INFO] DocumentWebViewController -(void)startLoading
+2012-12-27 17:58:33.213 Dropbox[352:36cb] [ANALYTICS] {"retry":0,"favorite":false,"extension":"txt","id":24,"cached":false,"ts":"1356598713.21","boot_ts":"17517.93","event":"file.view.start","size":0}
+2012-12-27 17:58:33.227 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:33.229 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:33.231 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:33.233 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:33.263 Dropbox[352:6613] [ANALYTICS] {"full_file":true,"extension":"txt","id":24,"ts":"1356598713.26","boot_ts":"17517.98","connection":"wifi","event":"download.start","size":0}
+2012-12-27 17:58:33.671 Dropbox[352:6613] [ANALYTICS] {"boot_ts":"17518.39","ts":"1356598713.67","orientation":1,"event":"screen.view","screen":"DocumentWebViewController"}
+2012-12-27 17:58:33.855 Dropbox[352:907] [INFO] FileViewController#setExportable:1
+2012-12-27 17:58:33.864 Dropbox[352:6613] [ANALYTICS] {"boot_ts":"17518.59","id":24,"ts":"1356598713.86","event":"download.success","extension":"txt"}
+2012-12-27 17:58:33.991 Dropbox[352:907] [INFO] FileViewController#setExportable:1
+2012-12-27 17:58:34.041 Dropbox[352:907] [INFO] DocumentWebViewController - (BOOL)webView:(UIWebView *)webView shouldStartLoadWithRequest:(NSURLRequest *)request navigationType:(UIWebViewNavigationType)navigationType 5 url = dbcache://dropbox//tim_folder/01010.txt
+2012-12-27 17:58:34.044 Dropbox[352:907] [INFO] DocumentWebViewController 0x1f362c90 - (void)webViewDidStartLoad:(UIWebView *)webView 0x1f37c7a0
+2012-12-27 17:58:34.116 Dropbox[352:907] [INFO] FileCacheURLProtocol#startLoading 0x1f3839f0 initializing stream
+2012-12-27 17:58:34.122 Dropbox[352:907] [INFO] FileCacheURLProtocol#handleEvent: 0x1f3839f0 no data from stream
+2012-12-27 17:58:34.124 Dropbox[352:907] [INFO] FileCacheURLProtocol#handleEvent: 0x1f3839f0 done streaming, notifying client 0x1f128160
+2012-12-27 17:58:34.126 Dropbox[352:907] [INFO] FileCacheURLProtocol#stopLoading 0x1f3839f0
+2012-12-27 17:58:34.317 Dropbox[352:907] [INFO] DocumentWebViewController 0x1f362c90 - (void)webViewDidFinishLoad:(UIWebView *)webView 0x1f37c7a0
+2012-12-27 17:58:34.336 Dropbox[352:6613] [ANALYTICS] {"is_core":true,"id":24,"ts":"1356598714.32","boot_ts":"17519.04","event":"file.view.success"}
+2012-12-27 17:58:34.630 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:34.632 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:34.634 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:34.673 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:34.683 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:34.686 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:34.688 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:34.689 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:34.713 Dropbox[352:88a3] [INFO] FileCacheURLProtocol#stopLoading 0x1f3839f0
+2012-12-27 17:58:34.715 Dropbox[352:88a3] [INFO] FileCacheURLProtocol#stopLoading 0x1f3839f0
+2012-12-27 17:58:35.352 Dropbox[352:907] [INFO] FileViewController - (void)viewWillDisappear:(BOOL)animated 1
+2012-12-27 17:58:35.874 Dropbox[352:907] [INFO] DocumentWebViewController -(void)hideBars:(BOOL)hide
+2012-12-27 17:58:35.876 Dropbox[352:907] [INFO] FileViewController -(void)hideBars:(BOOL)hide
+2012-12-27 17:58:35.878 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:35.880 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:35.881 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:35.883 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:35.886 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:35.889 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:35.891 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:35.892 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:35.894 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:35.896 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:35.897 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:35.903 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:35.910 Dropbox[352:907] [INFO] FileViewController - (void)dealloc
+2012-12-27 17:58:35.923 Dropbox[352:6613] [ANALYTICS] {"boot_ts":"17520.64","ts":"1356598715.92","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:58:36.016 Dropbox[352:6613] [ANALYTICS] {"boot_ts":"17520.74","ts":"1356598716.02","cached":true,"path_hash":3820750687,"event":"metadata.load.start"}
+2012-12-27 17:58:36.266 Dropbox[352:6613] [ANALYTICS] {"boot_ts":"17520.99","ts":"1356598716.27","event":"metadata.load.unchanged","path_hash":3820750687}
+2012-12-27 17:58:36.498 Dropbox[352:907] [INFO] FileListController didSelectRowAtIndexPath: (40, 1)
+2012-12-27 17:58:36.510 Dropbox[352:907] [INFO] FileViewController - (id)initWithDirectoryEntry:, path = '/tim_folder/003.txt'
+2012-12-27 17:58:36.528 Dropbox[352:907] [INFO] FileViewController - (void)viewWillAppear:(BOOL)animated 1
+2012-12-27 17:58:36.666 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:36.671 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:36.674 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:36.676 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:36.679 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:36.681 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:36.683 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:36.688 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:36.695 Dropbox[352:6613] [ANALYTICS] {"retry":0,"favorite":false,"extension":"txt","id":21,"cached":false,"ts":"1356598716.70","boot_ts":"17521.42","event":"file.view.start","size":0}
+2012-12-27 17:58:36.699 Dropbox[352:907] [INFO] DocumentWebViewController -(void)startLoading
+2012-12-27 17:58:36.729 Dropbox[352:3a2b] [ANALYTICS] {"full_file":true,"extension":"txt","id":21,"ts":"1356598716.73","boot_ts":"17521.45","connection":"wifi","event":"download.start","size":0}
+2012-12-27 17:58:36.734 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:36.739 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:36.742 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:36.744 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:37.188 Dropbox[352:907] [INFO] FileViewController#setExportable:1
+2012-12-27 17:58:37.232 Dropbox[352:907] [INFO] FileViewController#setExportable:1
+2012-12-27 17:58:37.198 Dropbox[352:36cb] [ANALYTICS] {"boot_ts":"17521.92","id":21,"ts":"1356598717.20","event":"download.success","extension":"txt"}
+2012-12-27 17:58:37.248 Dropbox[352:36cb] [ANALYTICS] {"boot_ts":"17521.97","ts":"1356598717.25","orientation":1,"event":"screen.view","screen":"DocumentWebViewController"}
+2012-12-27 17:58:37.280 Dropbox[352:907] [INFO] DocumentWebViewController - (BOOL)webView:(UIWebView *)webView shouldStartLoadWithRequest:(NSURLRequest *)request navigationType:(UIWebViewNavigationType)navigationType 5 url = dbcache://dropbox//tim_folder/003.txt
+2012-12-27 17:58:37.287 Dropbox[352:907] [INFO] DocumentWebViewController 0x1f3b7f40 - (void)webViewDidStartLoad:(UIWebView *)webView 0x1f3c9660
+2012-12-27 17:58:37.317 Dropbox[352:907] [INFO] FileCacheURLProtocol#startLoading 0x1e5c5e60 initializing stream
+2012-12-27 17:58:37.324 Dropbox[352:907] [INFO] FileCacheURLProtocol#handleEvent: 0x1e5c5e60 no data from stream
+2012-12-27 17:58:37.327 Dropbox[352:907] [INFO] FileCacheURLProtocol#handleEvent: 0x1e5c5e60 done streaming, notifying client 0x1f3a6d40
+2012-12-27 17:58:37.329 Dropbox[352:907] [INFO] FileCacheURLProtocol#stopLoading 0x1e5c5e60
+2012-12-27 17:58:37.352 Dropbox[352:36cb] [ANALYTICS] {"is_core":true,"id":21,"ts":"1356598717.35","boot_ts":"17522.07","event":"file.view.success"}
+2012-12-27 17:58:37.355 Dropbox[352:907] [INFO] DocumentWebViewController 0x1f3b7f40 - (void)webViewDidFinishLoad:(UIWebView *)webView 0x1f3c9660
+2012-12-27 17:58:37.361 Dropbox[352:88a3] [INFO] FileCacheURLProtocol#stopLoading 0x1e5c5e60
+2012-12-27 17:58:37.363 Dropbox[352:88a3] [INFO] FileCacheURLProtocol#stopLoading 0x1e5c5e60
+2012-12-27 17:58:38.290 Dropbox[352:907] [INFO] FileViewController - (void)viewWillDisappear:(BOOL)animated 1
+2012-12-27 17:58:38.804 Dropbox[352:907] [INFO] DocumentWebViewController -(void)hideBars:(BOOL)hide
+2012-12-27 17:58:38.806 Dropbox[352:907] [INFO] FileViewController -(void)hideBars:(BOOL)hide
+2012-12-27 17:58:38.808 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:38.810 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:38.811 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:38.813 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:38.814 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:38.817 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:38.820 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:38.821 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:38.823 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:38.825 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:38.826 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:38.830 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:38.838 Dropbox[352:907] [INFO] FileViewController - (void)dealloc
+2012-12-27 17:58:38.877 Dropbox[352:36cb] [ANALYTICS] {"boot_ts":"17523.60","ts":"1356598718.88","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:58:38.942 Dropbox[352:36cb] [ANALYTICS] {"boot_ts":"17523.66","ts":"1356598718.94","cached":true,"path_hash":3820750687,"event":"metadata.load.start"}
+2012-12-27 17:58:39.173 Dropbox[352:3a2b] [ANALYTICS] {"boot_ts":"17523.89","ts":"1356598719.17","event":"metadata.load.unchanged","path_hash":3820750687}
+2012-12-27 17:58:39.379 Dropbox[352:907] [INFO] FileListController didSelectRowAtIndexPath: (40, 0)
+2012-12-27 17:58:39.381 Dropbox[352:907] [INFO] FileViewController - (id)initWithDirectoryEntry:, path = '/tim_folder/00001.txt'
+2012-12-27 17:58:39.399 Dropbox[352:907] [INFO] FileViewController - (void)viewWillAppear:(BOOL)animated 1
+2012-12-27 17:58:39.560 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:39.562 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:39.564 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:39.566 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:39.573 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:39.578 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:39.581 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:39.583 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:39.594 Dropbox[352:36cb] [ANALYTICS] {"retry":0,"favorite":false,"extension":"txt","id":27,"cached":false,"ts":"1356598719.59","boot_ts":"17524.31","event":"file.view.start","size":0}
+2012-12-27 17:58:39.592 Dropbox[352:907] [INFO] DocumentWebViewController -(void)startLoading
+2012-12-27 17:58:39.623 Dropbox[352:36cb] [ANALYTICS] {"full_file":true,"extension":"txt","id":27,"ts":"1356598719.62","boot_ts":"17524.34","connection":"wifi","event":"download.start","size":0}
+2012-12-27 17:58:39.629 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:39.632 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:39.634 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:39.637 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:40.059 Dropbox[352:6613] [ANALYTICS] {"boot_ts":"17524.78","ts":"1356598720.06","orientation":1,"event":"screen.view","screen":"DocumentWebViewController"}
+2012-12-27 17:58:40.201 Dropbox[352:907] [INFO] FileViewController#setExportable:1
+2012-12-27 17:58:40.211 Dropbox[352:36cb] [ANALYTICS] {"boot_ts":"17524.93","id":27,"ts":"1356598720.21","event":"download.success","extension":"txt"}
+2012-12-27 17:58:40.241 Dropbox[352:907] [INFO] FileViewController#setExportable:1
+2012-12-27 17:58:40.263 Dropbox[352:907] [INFO] DocumentWebViewController - (BOOL)webView:(UIWebView *)webView shouldStartLoadWithRequest:(NSURLRequest *)request navigationType:(UIWebViewNavigationType)navigationType 5 url = dbcache://dropbox//tim_folder/00001.txt
+2012-12-27 17:58:40.266 Dropbox[352:907] [INFO] DocumentWebViewController 0x1f3c28a0 - (void)webViewDidStartLoad:(UIWebView *)webView 0x1f3722c0
+2012-12-27 17:58:40.294 Dropbox[352:907] [INFO] FileCacheURLProtocol#startLoading 0x1f3aa9b0 initializing stream
+2012-12-27 17:58:40.300 Dropbox[352:907] [INFO] FileCacheURLProtocol#handleEvent: 0x1f3aa9b0 no data from stream
+2012-12-27 17:58:40.304 Dropbox[352:907] [INFO] FileCacheURLProtocol#handleEvent: 0x1f3aa9b0 done streaming, notifying client 0x1f3aa980
+2012-12-27 17:58:40.306 Dropbox[352:907] [INFO] FileCacheURLProtocol#stopLoading 0x1f3aa9b0
+2012-12-27 17:58:40.340 Dropbox[352:36cb] [ANALYTICS] {"is_core":true,"id":27,"ts":"1356598720.34","boot_ts":"17525.06","event":"file.view.success"}
+2012-12-27 17:58:40.337 Dropbox[352:907] [INFO] DocumentWebViewController 0x1f3c28a0 - (void)webViewDidFinishLoad:(UIWebView *)webView 0x1f3722c0
+2012-12-27 17:58:40.358 Dropbox[352:88a3] [INFO] FileCacheURLProtocol#stopLoading 0x1f3aa9b0
+2012-12-27 17:58:40.360 Dropbox[352:88a3] [INFO] FileCacheURLProtocol#stopLoading 0x1f3aa9b0
+2012-12-27 17:58:40.482 Dropbox[352:907] [INFO] FileViewController - (void)viewWillDisappear:(BOOL)animated 1
+2012-12-27 17:58:40.998 Dropbox[352:907] [INFO] DocumentWebViewController -(void)hideBars:(BOOL)hide
+2012-12-27 17:58:41.000 Dropbox[352:907] [INFO] FileViewController -(void)hideBars:(BOOL)hide
+2012-12-27 17:58:41.005 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:41.007 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:41.009 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:41.010 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:41.012 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:41.014 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:41.016 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:41.018 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:41.020 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:41.022 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:41.024 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:41.026 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:41.032 Dropbox[352:907] [INFO] FileViewController - (void)dealloc
+2012-12-27 17:58:41.125 Dropbox[352:36cb] [ANALYTICS] {"boot_ts":"17525.85","ts":"1356598721.12","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:58:41.127 Dropbox[352:36cb] [ANALYTICS] {"boot_ts":"17525.85","ts":"1356598721.13","cached":true,"path_hash":3820750687,"event":"metadata.load.start"}
+2012-12-27 17:58:41.451 Dropbox[352:36cb] [ANALYTICS] {"boot_ts":"17526.17","ts":"1356598721.45","event":"metadata.load.unchanged","path_hash":3820750687}
+2012-12-27 17:58:46.045 Dropbox[352:907] [INFO] FileListController didSelectRowAtIndexPath: (22, 0)
+2012-12-27 17:58:46.048 Dropbox[352:907] [INFO] FileViewController - (id)initWithDirectoryEntry:, path = '/tim_folder/interestsite.txt'
+2012-12-27 17:58:46.060 Dropbox[352:907] [INFO] FileViewController - (void)viewWillAppear:(BOOL)animated 1
+2012-12-27 17:58:46.166 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:46.169 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:46.170 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:46.172 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:46.174 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:46.177 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:46.179 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:46.181 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:46.187 Dropbox[352:907] [INFO] DocumentWebViewController -(void)startLoading
+2012-12-27 17:58:46.196 Dropbox[352:6613] [ANALYTICS] {"retry":0,"favorite":false,"extension":"txt","id":30,"cached":false,"ts":"1356598726.20","boot_ts":"17530.92","event":"file.view.start","size":0}
+2012-12-27 17:58:46.209 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:46.211 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:46.213 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:46.215 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:46.276 Dropbox[352:6613] [ANALYTICS] {"full_file":true,"extension":"txt","id":30,"ts":"1356598726.28","boot_ts":"17531.00","connection":"wifi","event":"download.start","size":0}
+2012-12-27 17:58:46.639 Dropbox[352:3a2b] [ANALYTICS] {"boot_ts":"17531.36","ts":"1356598726.64","orientation":1,"event":"screen.view","screen":"DocumentWebViewController"}
+2012-12-27 17:58:46.867 Dropbox[352:907] [INFO] FileViewController#setExportable:1
+2012-12-27 17:58:46.877 Dropbox[352:6613] [ANALYTICS] {"boot_ts":"17531.60","id":30,"ts":"1356598726.88","event":"download.success","extension":"txt"}
+2012-12-27 17:58:46.908 Dropbox[352:907] [INFO] FileViewController#setExportable:1
+2012-12-27 17:58:46.926 Dropbox[352:907] [INFO] DocumentWebViewController - (BOOL)webView:(UIWebView *)webView shouldStartLoadWithRequest:(NSURLRequest *)request navigationType:(UIWebViewNavigationType)navigationType 5 url = dbcache://dropbox//tim_folder/interestsite.txt
+2012-12-27 17:58:46.929 Dropbox[352:907] [INFO] DocumentWebViewController 0x1f36def0 - (void)webViewDidStartLoad:(UIWebView *)webView 0x1f3706d0
+2012-12-27 17:58:46.961 Dropbox[352:907] [INFO] FileCacheURLProtocol#startLoading 0x1f3d71e0 initializing stream
+2012-12-27 17:58:46.965 Dropbox[352:907] [INFO] FileCacheURLProtocol#handleEvent: 0x1f3d71e0 no data from stream
+2012-12-27 17:58:46.967 Dropbox[352:907] [INFO] FileCacheURLProtocol#handleEvent: 0x1f3d71e0 done streaming, notifying client 0x1f3d71b0
+2012-12-27 17:58:46.970 Dropbox[352:907] [INFO] FileCacheURLProtocol#stopLoading 0x1f3d71e0
+2012-12-27 17:58:47.025 Dropbox[352:907] [INFO] DocumentWebViewController 0x1f36def0 - (void)webViewDidFinishLoad:(UIWebView *)webView 0x1f3706d0
+2012-12-27 17:58:47.029 Dropbox[352:3a2b] [ANALYTICS] {"is_core":true,"id":30,"ts":"1356598727.03","boot_ts":"17531.75","event":"file.view.success"}
+2012-12-27 17:58:47.034 Dropbox[352:88a3] [INFO] FileCacheURLProtocol#stopLoading 0x1f3d71e0
+2012-12-27 17:58:47.037 Dropbox[352:88a3] [INFO] FileCacheURLProtocol#stopLoading 0x1f3d71e0
+2012-12-27 17:58:47.155 Dropbox[352:907] [INFO] FileViewController - (void)viewWillDisappear:(BOOL)animated 1
+2012-12-27 17:58:47.683 Dropbox[352:907] [INFO] DocumentWebViewController -(void)hideBars:(BOOL)hide
+2012-12-27 17:58:47.687 Dropbox[352:907] [INFO] FileViewController -(void)hideBars:(BOOL)hide
+2012-12-27 17:58:47.689 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:47.691 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:47.692 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:47.694 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:47.695 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:47.697 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:47.699 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:47.702 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:47.704 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:47.706 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:47.708 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:47.709 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:47.716 Dropbox[352:907] [INFO] FileViewController - (void)dealloc
+2012-12-27 17:58:47.792 Dropbox[352:6613] [ANALYTICS] {"boot_ts":"17532.51","ts":"1356598727.79","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:58:47.815 Dropbox[352:6613] [ANALYTICS] {"boot_ts":"17532.54","ts":"1356598727.82","cached":true,"path_hash":3820750687,"event":"metadata.load.start"}
+2012-12-27 17:58:48.061 Dropbox[352:3a2b] [ANALYTICS] {"boot_ts":"17532.78","ts":"1356598728.06","event":"metadata.load.unchanged","path_hash":3820750687}
+2012-12-27 17:58:48.893 Dropbox[352:907] [INFO] FileListController didSelectRowAtIndexPath: (22, 0)
+2012-12-27 17:58:48.896 Dropbox[352:907] [INFO] FileViewController - (id)initWithDirectoryEntry:, path = '/tim_folder/interestsite.txt'
+2012-12-27 17:58:48.912 Dropbox[352:907] [INFO] FileViewController - (void)viewWillAppear:(BOOL)animated 1
+2012-12-27 17:58:49.049 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:49.055 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:49.057 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:49.059 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:49.061 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:49.064 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:49.065 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:49.067 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:49.076 Dropbox[352:907] [INFO] DocumentWebViewController -(void)startLoading
+2012-12-27 17:58:49.078 Dropbox[352:907] [INFO] FileViewController#setExportable:1
+2012-12-27 17:58:49.126 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:49.128 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:49.130 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:49.132 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:49.097 Dropbox[352:6613] [ANALYTICS] {"retry":0,"favorite":false,"extension":"txt","id":30,"cached":true,"ts":"1356598729.10","boot_ts":"17533.82","event":"file.view.start","size":0}
+2012-12-27 17:58:49.233 Dropbox[352:907] [INFO] DocumentWebViewController - (BOOL)webView:(UIWebView *)webView shouldStartLoadWithRequest:(NSURLRequest *)request navigationType:(UIWebViewNavigationType)navigationType 5 url = dbcache://dropbox//tim_folder/interestsite.txt
+2012-12-27 17:58:49.244 Dropbox[352:907] [INFO] DocumentWebViewController 0x1f3beaa0 - (void)webViewDidStartLoad:(UIWebView *)webView 0x1f3b9070
+2012-12-27 17:58:49.295 Dropbox[352:907] [INFO] FileCacheURLProtocol#startLoading 0x1f3af540 initializing stream
+2012-12-27 17:58:49.298 Dropbox[352:907] [INFO] FileCacheURLProtocol#handleEvent: 0x1f3af540 no data from stream
+2012-12-27 17:58:49.300 Dropbox[352:907] [INFO] FileCacheURLProtocol#handleEvent: 0x1f3af540 done streaming, notifying client 0x1f3af510
+2012-12-27 17:58:49.310 Dropbox[352:907] [INFO] FileCacheURLProtocol#stopLoading 0x1f3af540
+2012-12-27 17:58:49.359 Dropbox[352:907] [INFO] DocumentWebViewController 0x1f3beaa0 - (void)webViewDidFinishLoad:(UIWebView *)webView 0x1f3b9070
+2012-12-27 17:58:49.362 Dropbox[352:6613] [ANALYTICS] {"is_core":true,"id":30,"ts":"1356598729.36","boot_ts":"17534.08","event":"file.view.success"}
+2012-12-27 17:58:49.367 Dropbox[352:88a3] [INFO] FileCacheURLProtocol#stopLoading 0x1f3af540
+2012-12-27 17:58:49.375 Dropbox[352:88a3] [INFO] FileCacheURLProtocol#stopLoading 0x1f3af540
+2012-12-27 17:58:49.590 Dropbox[352:6613] [ANALYTICS] {"boot_ts":"17534.31","ts":"1356598729.59","orientation":1,"event":"screen.view","screen":"DocumentWebViewController"}
+2012-12-27 17:58:50.747 Dropbox[352:907] [INFO] FileViewController - (void)viewWillDisappear:(BOOL)animated 1
+2012-12-27 17:58:51.266 Dropbox[352:907] [INFO] DocumentWebViewController -(void)hideBars:(BOOL)hide
+2012-12-27 17:58:51.270 Dropbox[352:907] [INFO] FileViewController -(void)hideBars:(BOOL)hide
+2012-12-27 17:58:51.272 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:51.274 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:51.276 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:51.277 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:51.279 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:51.281 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:51.283 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:51.286 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:51.288 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:51.289 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:51.291 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:51.295 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:51.302 Dropbox[352:907] [INFO] FileViewController - (void)dealloc
+2012-12-27 17:58:51.320 Dropbox[352:6613] [ANALYTICS] {"boot_ts":"17536.04","ts":"1356598731.32","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:58:51.425 Dropbox[352:6613] [ANALYTICS] {"boot_ts":"17536.15","ts":"1356598731.42","cached":true,"path_hash":3820750687,"event":"metadata.load.start"}
+2012-12-27 17:58:52.496 Dropbox[352:8e27] [ANALYTICS] {"boot_ts":"17537.22","ts":"1356598732.50","event":"metadata.load.unchanged","path_hash":3820750687}
+2012-12-27 17:58:53.925 Dropbox[352:907] [INFO] FileListController didSelectRowAtIndexPath: (32, 0)
+2012-12-27 17:58:53.927 Dropbox[352:907] [INFO] FileViewController - (id)initWithDirectoryEntry:, path = '/tim_folder/S-Companysecurity.pdf'
+2012-12-27 17:58:53.946 Dropbox[352:907] [INFO] FileViewController - (void)viewWillAppear:(BOOL)animated 1
+2012-12-27 17:58:54.050 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:54.054 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:54.056 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:54.057 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:54.061 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:54.063 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:54.065 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:54.067 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:54.078 Dropbox[352:907] [INFO] DocumentWebViewController -(void)startLoading
+2012-12-27 17:58:54.089 Dropbox[352:6613] [ANALYTICS] {"retry":0,"favorite":false,"extension":"pdf","id":33,"cached":false,"ts":"1356598734.09","boot_ts":"17538.81","event":"file.view.start","size":2249192}
+2012-12-27 17:58:54.103 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:58:54.105 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:58:54.107 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:58:54.110 Dropbox[352:8e27] [ANALYTICS] {"full_file":true,"extension":"pdf","id":33,"ts":"1356598734.11","boot_ts":"17538.83","connection":"wifi","event":"download.start","size":2249192}
+2012-12-27 17:58:54.108 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:58:54.552 Dropbox[352:3a2b] [ANALYTICS] {"boot_ts":"17539.27","ts":"1356598734.55","orientation":1,"event":"screen.view","screen":"DocumentWebViewController"}
+2012-12-27 17:58:55.284 Dropbox[352:8e27] [ANALYTICS] {"boot_ts":"17540.00","id":33,"ts":"1356598735.28","event":"download.progress","extension":"pdf","progress":"0.014269"}
+2012-12-27 17:59:03.073 Dropbox[352:907] [INFO] FileViewController#setExportable:1
+2012-12-27 17:59:03.083 Dropbox[352:8e27] [ANALYTICS] {"boot_ts":"17547.80","id":33,"ts":"1356598743.08","event":"download.success","extension":"pdf"}
+2012-12-27 17:59:03.115 Dropbox[352:907] [INFO] FileViewController#setExportable:1
+2012-12-27 17:59:03.133 Dropbox[352:907] [INFO] DocumentWebViewController - (BOOL)webView:(UIWebView *)webView shouldStartLoadWithRequest:(NSURLRequest *)request navigationType:(UIWebViewNavigationType)navigationType 5 url = dbcache://dropbox//tim_folder/S-Companysecurity.pdf
+2012-12-27 17:59:03.150 Dropbox[352:907] [INFO] DocumentWebViewController 0x1f36e2d0 - (void)webViewDidStartLoad:(UIWebView *)webView 0x1f11ff60
+2012-12-27 17:59:03.194 Dropbox[352:907] [INFO] FileCacheURLProtocol#startLoading 0x1f3c2ec0 initializing stream
+2012-12-27 17:59:04.725 Dropbox[352:907] [INFO] FileCacheURLProtocol#handleEvent: 0x1f3c2ec0 no data from stream
+2012-12-27 17:59:04.728 Dropbox[352:907] [INFO] FileCacheURLProtocol#handleEvent: 0x1f3c2ec0 done streaming, notifying client 0x1f3c2e90
+2012-12-27 17:59:04.731 Dropbox[352:907] [INFO] FileCacheURLProtocol#stopLoading 0x1f3c2ec0
+2012-12-27 17:59:04.978 Dropbox[352:3a2b] [ANALYTICS] {"is_core":true,"id":33,"ts":"1356598744.98","boot_ts":"17549.70","event":"file.view.success"}
+2012-12-27 17:59:04.975 Dropbox[352:907] [INFO] DocumentWebViewController 0x1f36e2d0 - (void)webViewDidFinishLoad:(UIWebView *)webView 0x1f11ff60
+2012-12-27 17:59:05.033 Dropbox[352:88a3] [INFO] FileCacheURLProtocol#stopLoading 0x1f3c2ec0
+2012-12-27 17:59:05.042 Dropbox[352:88a3] [INFO] FileCacheURLProtocol#stopLoading 0x1f3c2ec0
+2012-12-27 17:59:06.425 Dropbox[352:907] [INFO] FileViewController - (void)viewWillDisappear:(BOOL)animated 1
+2012-12-27 17:59:07.438 Dropbox[352:907] [INFO] DocumentWebViewController -(void)hideBars:(BOOL)hide
+2012-12-27 17:59:07.441 Dropbox[352:907] [INFO] FileViewController -(void)hideBars:(BOOL)hide
+2012-12-27 17:59:07.443 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:59:07.445 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:59:07.446 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:59:07.448 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:59:07.450 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:59:07.453 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:59:07.455 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:59:07.457 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:59:07.459 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:59:07.460 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:59:07.462 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:59:07.464 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:59:07.475 Dropbox[352:907] [INFO] FileViewController - (void)dealloc
+2012-12-27 17:59:07.498 Dropbox[352:3a2b] [ANALYTICS] {"boot_ts":"17552.22","ts":"1356598747.50","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:59:07.629 Dropbox[352:3a2b] [ANALYTICS] {"boot_ts":"17552.35","ts":"1356598747.63","cached":true,"path_hash":3820750687,"event":"metadata.load.start"}
+2012-12-27 17:59:08.670 Dropbox[352:910f] [ANALYTICS] {"boot_ts":"17553.39","ts":"1356598748.67","event":"metadata.load.unchanged","path_hash":3820750687}
+2012-12-27 17:59:08.981 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17553.70","ts":"1356598748.98","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:59:09.033 Dropbox[352:3a2b] [ANALYTICS] {"boot_ts":"17553.75","ts":"1356598749.03","cached":true,"path_hash":912,"event":"metadata.load.start"}
+2012-12-27 17:59:09.280 Dropbox[352:8e27] [ANALYTICS] {"boot_ts":"17554.00","ts":"1356598749.28","event":"metadata.load.unchanged","path_hash":912}
+2012-12-27 17:59:09.714 Dropbox[352:907] [INFO] FileListController didSelectRowAtIndexPath: (29, 0)
+2012-12-27 17:59:10.365 Dropbox[352:8e27] [ANALYTICS] {"boot_ts":"17555.09","ts":"1356598750.37","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:59:10.416 Dropbox[352:910f] [ANALYTICS] {"boot_ts":"17555.14","ts":"1356598750.42","cached":true,"path_hash":817691443,"event":"metadata.load.start"}
+2012-12-27 17:59:10.727 Dropbox[352:8e27] [ANALYTICS] {"boot_ts":"17555.45","ts":"1356598750.73","event":"metadata.load.unchanged","path_hash":817691443}
+2012-12-27 17:59:10.767 Dropbox[352:907] [INFO] [Prefetching Metadata] id = 2677315682
+2012-12-27 17:59:10.820 Dropbox[352:8e27] [ANALYTICS] {"boot_ts":"17555.54","ts":"1356598750.82","cached":false,"path_hash":2677315682,"event":"metadata.load.start"}
+2012-12-27 17:59:11.138 Dropbox[352:910f] [ANALYTICS] {"boot_ts":"17555.86","ts":"1356598751.14","event":"metadata.load.success","path_hash":2677315682}
+2012-12-27 17:59:11.233 Dropbox[352:907] [INFO] FileListController didSelectRowAtIndexPath: (32, 0)
+2012-12-27 17:59:11.773 Dropbox[352:910f] [ANALYTICS] {"boot_ts":"17556.49","ts":"1356598751.77","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:59:11.825 Dropbox[352:8e27] [ANALYTICS] {"boot_ts":"17556.54","ts":"1356598751.82","cached":true,"path_hash":2677315682,"event":"metadata.load.start"}
+2012-12-27 17:59:12.163 Dropbox[352:907] [INFO] [Loading browser thumbnail id = 3
+2012-12-27 17:59:12.170 Dropbox[352:907] [INFO] [Loading browser thumbnail id = 5
+2012-12-27 17:59:12.173 Dropbox[352:907] [INFO] [Loading browser thumbnail id = 4
+2012-12-27 17:59:12.192 Dropbox[352:910f] [ANALYTICS] {"full_file":false,"extension":"jpg","id":3,"ts":"1356598752.19","boot_ts":"17556.91","connection":"wifi","event":"download.start","size":339773}
+2012-12-27 17:59:12.203 Dropbox[352:910f] [ANALYTICS] {"full_file":false,"extension":"jpg","id":5,"ts":"1356598752.20","boot_ts":"17556.92","connection":"wifi","event":"download.start","size":354633}
+2012-12-27 17:59:12.212 Dropbox[352:910f] [ANALYTICS] {"full_file":false,"extension":"jpg","id":4,"ts":"1356598752.21","boot_ts":"17556.93","connection":"wifi","event":"download.start","size":480098}
+2012-12-27 17:59:12.223 Dropbox[352:910f] [ANALYTICS] {"num_entries":3,"ts":"1356598752.22","boot_ts":"17556.94","event":"batchdownload.start"}
+2012-12-27 17:59:12.225 Dropbox[352:910f] [ANALYTICS] {"boot_ts":"17556.95","ts":"1356598752.23","event":"metadata.load.unchanged","path_hash":2677315682}
+2012-12-27 17:59:12.876 Dropbox[352:8e27] [ANALYTICS] {"boot_ts":"17557.60","ts":"1356598752.88","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:59:12.917 Dropbox[352:910f] [ANALYTICS] {"boot_ts":"17557.64","ts":"1356598752.92","cached":true,"path_hash":817691443,"event":"metadata.load.start"}
+2012-12-27 17:59:13.156 Dropbox[352:910f] [ANALYTICS] {"boot_ts":"17557.88","ts":"1356598753.16","event":"metadata.load.unchanged","path_hash":817691443}
+2012-12-27 17:59:13.279 Dropbox[352:8493] [ANALYTICS] {"boot_ts":"17558.00","id":3,"ts":"1356598753.28","event":"download.success","extension":"jpg"}
+2012-12-27 17:59:13.291 Dropbox[352:3a2b] [ANALYTICS] {"boot_ts":"17558.01","id":5,"ts":"1356598753.29","event":"download.success","extension":"jpg"}
+2012-12-27 17:59:13.300 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17558.02","id":4,"ts":"1356598753.30","event":"download.success","extension":"jpg"}
+2012-12-27 17:59:14.377 Dropbox[352:8e27] [ANALYTICS] {"boot_ts":"17559.10","ts":"1356598754.38","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:59:14.410 Dropbox[352:910f] [ANALYTICS] {"boot_ts":"17559.13","ts":"1356598754.41","cached":true,"path_hash":912,"event":"metadata.load.start"}
+2012-12-27 17:59:14.667 Dropbox[352:910f] [ANALYTICS] {"boot_ts":"17559.39","ts":"1356598754.67","event":"metadata.load.unchanged","path_hash":912}
+2012-12-27 17:59:15.894 Dropbox[352:907] [INFO] FileListController didSelectRowAtIndexPath: (10, 0)
+2012-12-27 17:59:16.423 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17561.14","ts":"1356598756.42","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:59:16.476 Dropbox[352:910f] [ANALYTICS] {"boot_ts":"17561.20","ts":"1356598756.48","cached":true,"path_hash":2567775896,"event":"metadata.load.start"}
+2012-12-27 17:59:16.820 Dropbox[352:910f] [ANALYTICS] {"boot_ts":"17561.54","ts":"1356598756.82","event":"metadata.load.unchanged","path_hash":2567775896}
+2012-12-27 17:59:17.210 Dropbox[352:907] [INFO] FileListController didSelectRowAtIndexPath: (40, 0)
+2012-12-27 17:59:17.551 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17562.21","id":6,"page":0,"ts":"1356598757.49","loaded":false,"event":"gallery.page"}
+2012-12-27 17:59:17.581 Dropbox[352:722b] [ANALYTICS] {"is_core":true,"id":6,"ts":"1356598757.58","boot_ts":"17562.30","event":"file.view.success"}
+2012-12-27 17:59:17.647 Dropbox[352:8e27] [ANALYTICS] {"full_file":false,"extension":"png","id":6,"ts":"1356598757.65","boot_ts":"17562.37","connection":"wifi","event":"download.start","size":466537}
+2012-12-27 17:59:17.933 Dropbox[352:8e27] [ANALYTICS] {"boot_ts":"17562.65","ts":"1356598757.93","orientation":1,"event":"screen.view","screen":"PhotoViewController"}
+2012-12-27 17:59:20.665 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17565.39","id":6,"ts":"1356598760.67","event":"download.success","extension":"png"}
+2012-12-27 17:59:20.915 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17565.63","id":6,"page":0,"ts":"1356598760.91","event":"gallery.view.success"}
+2012-12-27 17:59:23.508 Dropbox[352:8e27] [ANALYTICS] {"boot_ts":"17568.23","ts":"1356598763.51","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:59:23.539 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17568.26","ts":"1356598763.54","cached":true,"path_hash":2567775896,"event":"metadata.load.start"}
+2012-12-27 17:59:23.795 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17568.52","ts":"1356598763.80","event":"metadata.load.unchanged","path_hash":2567775896}
+2012-12-27 17:59:24.258 Dropbox[352:907] [INFO] FileListController didSelectRowAtIndexPath: (40, 0)
+2012-12-27 17:59:24.451 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17569.17","id":6,"page":0,"ts":"1356598764.45","loaded":false,"event":"gallery.page"}
+2012-12-27 17:59:24.467 Dropbox[352:722b] [ANALYTICS] {"is_core":true,"id":6,"ts":"1356598764.47","boot_ts":"17569.19","event":"file.view.success"}
+2012-12-27 17:59:24.483 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17569.20","id":6,"page":0,"ts":"1356598764.48","event":"gallery.view.success"}
+2012-12-27 17:59:24.844 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17569.56","ts":"1356598764.84","orientation":1,"event":"screen.view","screen":"PhotoViewController"}
+2012-12-27 17:59:30.464 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17575.19","ts":"1356598770.46","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:59:30.496 Dropbox[352:9113] [ANALYTICS] {"boot_ts":"17575.22","ts":"1356598770.50","cached":true,"path_hash":2567775896,"event":"metadata.load.start"}
+2012-12-27 17:59:30.751 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17575.47","ts":"1356598770.75","event":"metadata.load.unchanged","path_hash":2567775896}
+2012-12-27 17:59:31.266 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17575.99","ts":"1356598771.27","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:59:31.293 Dropbox[352:36df] [ANALYTICS] {"boot_ts":"17576.01","ts":"1356598771.29","cached":true,"path_hash":912,"event":"metadata.load.start"}
+2012-12-27 17:59:31.567 Dropbox[352:36df] [ANALYTICS] {"boot_ts":"17576.29","ts":"1356598771.57","event":"metadata.load.unchanged","path_hash":912}
+2012-12-27 17:59:31.780 Dropbox[352:907] [INFO] FileListController didSelectRowAtIndexPath: (33, 0)
+2012-12-27 17:59:32.306 Dropbox[352:36df] [ANALYTICS] {"boot_ts":"17577.03","ts":"1356598772.31","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:59:32.366 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17577.09","ts":"1356598772.37","cached":true,"path_hash":3820750687,"event":"metadata.load.start"}
+2012-12-27 17:59:32.795 Dropbox[352:36df] [ANALYTICS] {"boot_ts":"17577.52","ts":"1356598772.80","event":"metadata.load.unchanged","path_hash":3820750687}
+2012-12-27 17:59:34.526 Dropbox[352:907] [INFO] FileListController didSelectRowAtIndexPath: (26, 0)
+2012-12-27 17:59:34.529 Dropbox[352:907] [INFO] FileViewController - (id)initWithDirectoryEntry:, path = '/tim_folder/myname.pdf'
+2012-12-27 17:59:34.542 Dropbox[352:907] [INFO] FileViewController - (void)viewWillAppear:(BOOL)animated 1
+2012-12-27 17:59:34.643 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:59:34.646 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:59:34.648 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:59:34.650 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:59:34.652 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:59:34.654 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:59:34.656 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:59:34.657 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:59:34.663 Dropbox[352:907] [INFO] DocumentWebViewController -(void)startLoading
+2012-12-27 17:59:34.669 Dropbox[352:36df] [ANALYTICS] {"retry":0,"favorite":false,"extension":"pdf","id":28,"cached":false,"ts":"1356598774.67","boot_ts":"17579.39","event":"file.view.start","size":0}
+2012-12-27 17:59:34.683 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:59:34.686 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:59:34.688 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:59:34.690 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:59:34.744 Dropbox[352:36df] [ANALYTICS] {"full_file":true,"extension":"pdf","id":28,"ts":"1356598774.74","boot_ts":"17579.46","connection":"wifi","event":"download.start","size":0}
+2012-12-27 17:59:35.104 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17579.82","ts":"1356598775.10","orientation":1,"event":"screen.view","screen":"DocumentWebViewController"}
+2012-12-27 17:59:35.510 Dropbox[352:907] [INFO] FileViewController#setExportable:1
+2012-12-27 17:59:35.523 Dropbox[352:36df] [ANALYTICS] {"boot_ts":"17580.24","id":28,"ts":"1356598775.52","event":"download.success","extension":"pdf"}
+2012-12-27 17:59:35.556 Dropbox[352:907] [INFO] FileViewController#setExportable:1
+2012-12-27 17:59:35.577 Dropbox[352:907] [INFO] DocumentWebViewController - (BOOL)webView:(UIWebView *)webView shouldStartLoadWithRequest:(NSURLRequest *)request navigationType:(UIWebViewNavigationType)navigationType 5 url = dbcache://dropbox//tim_folder/myname.pdf
+2012-12-27 17:59:35.580 Dropbox[352:907] [INFO] DocumentWebViewController 0x1f3e0820 - (void)webViewDidStartLoad:(UIWebView *)webView 0x1f396730
+2012-12-27 17:59:35.613 Dropbox[352:907] [INFO] FileCacheURLProtocol#startLoading 0x1f301b30 initializing stream
+2012-12-27 17:59:35.617 Dropbox[352:907] [INFO] FileCacheURLProtocol#handleEvent: 0x1f301b30 no data from stream
+2012-12-27 17:59:35.620 Dropbox[352:907] [INFO] FileCacheURLProtocol#handleEvent: 0x1f301b30 done streaming, notifying client 0x1f3c6740
+2012-12-27 17:59:35.622 Dropbox[352:907] [INFO] FileCacheURLProtocol#stopLoading 0x1f301b30
+2012-12-27 17:59:35.642 Dropbox[352:907] [INFO] DocumentWebViewController 0x1f3e0820 - (void)webViewDidFinishLoad:(UIWebView *)webView 0x1f396730
+2012-12-27 17:59:35.645 Dropbox[352:722b] [ANALYTICS] {"is_core":true,"id":28,"ts":"1356598775.65","boot_ts":"17580.37","event":"file.view.success"}
+2012-12-27 17:59:35.650 Dropbox[352:88a3] [INFO] FileCacheURLProtocol#stopLoading 0x1f301b30
+2012-12-27 17:59:35.658 Dropbox[352:88a3] [INFO] FileCacheURLProtocol#stopLoading 0x1f301b30
+2012-12-27 17:59:35.823 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:59:35.825 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:59:35.827 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:59:35.829 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:59:35.830 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:59:35.832 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:59:35.834 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:59:35.837 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:59:37.637 Dropbox[352:907] [INFO] FileViewController - (void)viewWillDisappear:(BOOL)animated 1
+2012-12-27 17:59:38.146 Dropbox[352:907] [INFO] DocumentWebViewController -(void)hideBars:(BOOL)hide
+2012-12-27 17:59:38.148 Dropbox[352:907] [INFO] FileViewController -(void)hideBars:(BOOL)hide
+2012-12-27 17:59:38.149 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:59:38.152 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:59:38.154 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:59:38.155 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:59:38.157 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:59:38.160 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:59:38.161 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:59:38.163 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:59:38.164 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:59:38.166 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:59:38.169 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:59:38.173 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:59:38.180 Dropbox[352:907] [INFO] FileViewController - (void)dealloc
+2012-12-27 17:59:38.187 Dropbox[352:36df] [ANALYTICS] {"boot_ts":"17582.91","ts":"1356598778.19","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:59:38.284 Dropbox[352:36df] [ANALYTICS] {"boot_ts":"17583.00","ts":"1356598778.28","cached":true,"path_hash":3820750687,"event":"metadata.load.start"}
+2012-12-27 17:59:38.729 Dropbox[352:36df] [ANALYTICS] {"boot_ts":"17583.45","ts":"1356598778.73","event":"metadata.load.unchanged","path_hash":3820750687}
+2012-12-27 17:59:40.483 Dropbox[352:907] [INFO] FileListController didSelectRowAtIndexPath: (14, 1)
+2012-12-27 17:59:40.495 Dropbox[352:907] [INFO] FileViewController - (id)initWithDirectoryEntry:, path = '/tim_folder/avdd.doc'
+2012-12-27 17:59:40.509 Dropbox[352:907] [INFO] FileViewController - (void)viewWillAppear:(BOOL)animated 1
+2012-12-27 17:59:40.604 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:59:40.607 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:59:40.610 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:59:40.612 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:59:40.614 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:59:40.616 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:59:40.620 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:59:40.622 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:59:40.637 Dropbox[352:36df] [ANALYTICS] {"retry":0,"favorite":false,"extension":"doc","id":22,"cached":false,"ts":"1356598780.64","boot_ts":"17585.36","event":"file.view.start","size":0}
+2012-12-27 17:59:40.640 Dropbox[352:907] [INFO] DocumentViewController -(void)startLoading
+2012-12-27 17:59:40.655 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 1
+2012-12-27 17:59:40.658 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 4
+2012-12-27 17:59:40.659 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 3
+2012-12-27 17:59:40.661 Dropbox[352:907] [INFO] FileViewController - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation orientation = 2
+2012-12-27 17:59:40.696 Dropbox[352:36df] [ANALYTICS] {"full_file":true,"extension":"doc","id":22,"ts":"1356598780.70","boot_ts":"17585.42","connection":"wifi","event":"download.start","size":0}
+2012-12-27 17:59:41.094 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17585.81","ts":"1356598781.09","orientation":1,"event":"screen.view","screen":"DocumentViewController"}
+2012-12-27 17:59:41.192 Dropbox[352:36df] [ANALYTICS] {"boot_ts":"17585.91","id":22,"ts":"1356598781.19","event":"download.success","extension":"doc"}
+2012-12-27 17:59:41.645 Dropbox[352:907] [INFO] FileViewController#setExportable:1
+2012-12-27 17:59:41.661 Dropbox[352:9f03] [ANALYTICS] {"boot_ts":"17586.38","ts":"1356598781.66","orientation":1,"event":"screen.view","screen":"QLPreviewController"}
+2012-12-27 17:59:44.777 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17589.50","ts":"1356598784.78","orientation":1,"event":"screen.view","screen":"QLRemotePreviewContentController"}
+2012-12-27 17:59:48.261 Dropbox[352:907] [INFO] FileViewController - (void)viewWillDisappear:(BOOL)animated 1
+2012-12-27 17:59:49.072 Dropbox[352:907] [INFO] FileViewController - (void)dealloc
+2012-12-27 17:59:49.078 Dropbox[352:36df] [ANALYTICS] {"boot_ts":"17593.80","ts":"1356598789.08","orientation":1,"event":"screen.view","screen":"SearchableFolderListController"}
+2012-12-27 17:59:49.257 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"17593.98","ts":"1356598789.26","cached":true,"path_hash":3820750687,"event":"metadata.load.start"}
+2012-12-27 17:59:49.530 Dropbox[352:36df] [ANALYTICS] {"boot_ts":"17594.25","ts":"1356598789.53","event":"metadata.load.unchanged","path_hash":3820750687}
+2012-12-27 17:59:52.512 Dropbox[352:907] [INFO] - (void)applicationWillResignActive:(UIApplication *)application
+2012-12-27 17:59:52.873 Dropbox[352:907] [INFO] - (void)applicationDidEnterBackground:(UIApplication *)application
+2012-12-27 17:59:52.878 Dropbox[352:36df] [ANALYTICS] {"boot_ts":"17597.60","event":"app.background","ts":"1356598792.88"}
+2012-12-27 17:59:52.964 Dropbox[352:36df] [ANALYTICS] {"sys_model":"iPhone3,1","LOG_SERIES_UUID":"6D88E680-EFDF-4D1E-BA23-7E1555DFBFA5","LOCALE":"ko_KR","sys_version":"6.0","app_platform":"ios","event":"open.log","device_id":"A1E670A9-1CFB-43D1-BD12-1D994590588C","MANUFACTURER":"Apple","boot_ts":"17597.68","app_version":"2.0","ts":"1356598792.96","log_level":"ANALYTICS","LOG_SEQUENCE_NUMBER":2}
+2012-12-27 17:59:52.986 Dropbox[352:36df] [ANALYTICS] {"boot_ts":"17597.71","ts":"1356598792.99","max_cache_size":524288000,"event":"cache.cleanup.start"}
+2012-12-27 17:59:52.999 Dropbox[352:36df] [ANALYTICS] {"boot_ts":"17597.72","event":"cache.cleanup.finish","ts":"1356598793.00"}
+2012-12-27 18:28:54.592 Dropbox[352:907] [INFO] - (void)applicationWillEnterForeground:(UIApplication *)application
+2012-12-27 18:28:54.597 Dropbox[352:a017] [ANALYTICS] {"is_core":true,"ts":"1356600534.60","boot_ts":"19339.32","event":"app.foreground","connection":"wifi"}
+2012-12-27 18:28:54.660 Dropbox[352:907] [INFO] - (void)applicationDidBecomeActive:(UIApplication*)application
+2012-12-27 18:28:54.671 Dropbox[352:907] [INFO] FavoriteFiles 0x1f1f6440 - (void)fetchMetadataUpdates
+2012-12-27 18:28:54.676 Dropbox[352:907] [INFO] Memory Capacity with 13604 MiB Free memory available.
+2012-12-27 18:28:54.713 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"19339.43","ts":"1356600534.71","manual_uploads":0,"camera_uploads":0,"event":"app.badge"}
+2012-12-27 18:28:54.717 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"19339.44","ts":"1356600534.72","orientation":1,"event":"screen.view","screen":"CameraUploadAlbumViewController"}
+2012-12-27 18:28:54.775 Dropbox[352:36df] [ANALYTICS] {"boot_ts":"19339.50","ts":"1356600534.78","cached":true,"path_hash":3820750687,"event":"metadata.load.start"}
+2012-12-27 18:28:55.655 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"19340.38","ts":"1356600535.66","event":"metadata.load.unchanged","path_hash":3820750687}
+2012-12-27 18:29:04.248 Dropbox[352:907] [INFO] - (void)applicationWillResignActive:(UIApplication *)application
+2012-12-27 18:29:04.269 Dropbox[352:907] [INFO] - (void)applicationDidEnterBackground:(UIApplication *)application
+2012-12-27 18:29:04.286 Dropbox[352:36df] [ANALYTICS] {"boot_ts":"19349.01","event":"app.background","ts":"1356600544.29"}
+2012-12-27 18:29:04.367 Dropbox[352:36df] [ANALYTICS] {"sys_model":"iPhone3,1","LOG_SERIES_UUID":"6D88E680-EFDF-4D1E-BA23-7E1555DFBFA5","LOCALE":"ko_KR","sys_version":"6.0","app_platform":"ios","event":"open.log","device_id":"A1E670A9-1CFB-43D1-BD12-1D994590588C","MANUFACTURER":"Apple","boot_ts":"19349.09","app_version":"2.0","ts":"1356600544.37","log_level":"ANALYTICS","LOG_SEQUENCE_NUMBER":3}
+2012-12-27 18:29:04.431 Dropbox[352:722b] [ANALYTICS] {"boot_ts":"19349.15","ts":"1356600544.43","max_cache_size":524288000,"event":"cache.cleanup.start"}
+2012-12-27 18:29:04.446 Dropbox[352:36df] [ANALYTICS] {"boot_ts":"19349.17","event":"cache.cleanup.finish","ts":"1356600544.45"}
+2012-12-27 18:32:12.043 Dropbox[352:907] [INFO] - (void)applicationWillEnterForeground:(UIApplication *)application
+2012-12-27 18:32:12.063 Dropbox[352:907] [INFO] - (void)applicationDidBecomeActive:(UIApplication*)application
+2012-12-27 18:32:12.073 Dropbox[352:907] [INFO] FavoriteFiles 0x1f1f6440 - (void)fetchMetadataUpdates
+2012-12-27 18:32:12.078 Dropbox[352:907] [INFO] Memory Capacity with 13604 MiB Free memory available.
+2012-12-27 18:32:12.057 Dropbox[352:691f] [ANALYTICS] {"is_core":true,"ts":"1356600732.06","boot_ts":"19536.78","event":"app.foreground","connection":"wifi"}
+2012-12-27 18:32:12.119 Dropbox[352:691f] [ANALYTICS] {"boot_ts":"19536.84","ts":"1356600732.12","manual_uploads":0,"camera_uploads":0,"event":"app.badge"}
+2012-12-27 18:32:12.122 Dropbox[352:691f] [ANALYTICS] {"boot_ts":"19536.84","ts":"1356600732.12","orientation":1,"event":"screen.view","screen":"CameraUploadAlbumViewController"}
+2012-12-27 18:32:12.310 Dropbox[352:a90f] [ANALYTICS] {"boot_ts":"19537.03","ts":"1356600732.31","cached":true,"path_hash":3820750687,"event":"metadata.load.start"}
+2012-12-27 18:32:13.572 Dropbox[352:a90f] [ANALYTICS] {"boot_ts":"19538.29","ts":"1356600733.57","event":"metadata.load.unchanged","path_hash":3820750687}
+2012-12-27 18:32:19.388 Dropbox[352:907] [INFO] - (void)applicationWillResignActive:(UIApplication *)application
+2012-12-27 18:32:19.460 Dropbox[352:907] [INFO] - (void)applicationDidEnterBackground:(UIApplication *)application
+2012-12-27 18:32:19.464 Dropbox[352:a90f] [ANALYTICS] {"boot_ts":"19544.18","event":"app.background","ts":"1356600739.46"}
+2012-12-27 18:32:19.543 Dropbox[352:a90f] [ANALYTICS] {"sys_model":"iPhone3,1","LOG_SERIES_UUID":"6D88E680-EFDF-4D1E-BA23-7E1555DFBFA5","LOCALE":"ko_KR","sys_version":"6.0","app_platform":"ios","event":"open.log","device_id":"A1E670A9-1CFB-43D1-BD12-1D994590588C","MANUFACTURER":"Apple","boot_ts":"19544.26","app_version":"2.0","ts":"1356600739.54","log_level":"ANALYTICS","LOG_SEQUENCE_NUMBER":4}
+2012-12-27 18:32:19.556 Dropbox[352:a90f] [ANALYTICS] {"boot_ts":"19544.28","ts":"1356600739.56","max_cache_size":524288000,"event":"cache.cleanup.start"}
+2012-12-27 18:32:19.561 Dropbox[352:a90f] [ANALYTICS] {"boot_ts":"19544.28","event":"cache.cleanup.finish","ts":"1356600739.56"}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="https://bango.net/AppAnalytics/" xmlns="https://bango.net/AppAnalytics/">
+  
+  <xsd:complexType name="DataType">
+		<xsd:attribute name="id" type="xsd:int" />
+	</xsd:complexType>
+  
+	<xsd:complexType name="Profile">
+		<xsd:complexContent>
+			<xsd:extension base="DataType">
+				<xsd:sequence>
+					<xsd:element name="events" type="Event" maxOccurs="unbounded" />
+				</xsd:sequence>
+				<xsd:attribute name="device" type="string" />
+        <xsd:attribute name="applicationKey" type="xsd:string" />
+        <xsd:attribute name="applicationChannel" type="xsd:string" />
+        <xsd:attribute name="applicationType" type="xsd:string" />
+        <xsd:attribute name="applicationVersion" type="xsd:string" />
+        <xsd:attribute name="ipAddress" type="xsd:string" />
+        <xsd:attribute name="userId" type="xsd:string" />
+        <xsd:attribute name="created" type="xsd:dateTime" />
+        <xsd:attribute name="networkOperator" type="xsd:string" />
+        <xsd:attribute name="operatorName" type="xsd:string" />
+        <xsd:attribute name="operatorCountryIso" type="xsd:string" />
+        <xsd:attribute name="operatorConnectionType" type="xsd:int" />
+        <xsd:attribute name="sim" type="xsd:string" />
+        <xsd:attribute name="brand" type="xsd:string" />
+        <xsd:attribute name="locationSource" type="xsd:string" />
+        <xsd:attribute name="locationLatitude" type="xsd:double" />
+        <xsd:attribute name="locationLongitude" type="xsd:double" />
+        <xsd:attribute name="locationAltitude" type="xsd:double" />
+        <xsd:attribute name="locationAccuracy" type="xsd:double" />
+        <xsd:attribute name="version" type="xsd:string" />
+        <xsd:attribute name="sdkVersion" type="xsd:double" />
+        <xsd:attribute name="networkType" type="xsd:float" />
+        <xsd:attribute name="model" type="xsd:string" />
+        <xsd:attribute name="product" type="xsd:string" />
+        <xsd:attribute name="connectionType" type="xsd:string" />
+        <xsd:attribute name="sdkType" type="xsd:int" />
+        <xsd:attribute name="isRoaming" type="xsd:boolean" />
+        <xsd:attribute name="sessionRestartTime" type="xsd:int" />
+        <xsd:attribute name="buildId" type="xsd:string" />
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+
+	<xsd:complexType name="Event">
+		<xsd:complexContent>
+			<xsd:extension base="DataType">
+				<xsd:sequence>
+					<xsd:element name="eventParameters" type="EventParameter" maxOccurs="unbounded" />
+ 					<xsd:element name="profile" type="Profile" />
+				</xsd:sequence>
+				<xsd:attribute name="eventName" type="xsd:string" />
+				<xsd:attribute name="eventDetail" type="xsd:string" />
+				<xsd:attribute name="eventTime" type="xsd:dateTime" />
+				<xsd:attribute name="connectionType" type="xsd:string" />
+ 				<xsd:attribute name="operatorConnectionType" type="xsd:string" />
+				<xsd:attribute name="errorId" type="xsd:string" />
+ 				<xsd:attribute name="errorLevel" type="xsd:int" />
+				<xsd:attribute name="eventValue" type="xsd:string" />
+				<xsd:attribute name="eventPosted" type="xsd:boolean" />
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+  
+  <xsd:complexType name="EventParameter">
+		<xsd:complexContent>
+			<xsd:extension base="DataType">
+        <xsd:sequence>
+ 					<xsd:element name="event" type="Event" />
+				</xsd:sequence>
+				<xsd:attribute name="eventName" type="xsd:string" />
+ 				<xsd:attribute name="eventValue" type="xsd:string" />
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+</xsd:schema>

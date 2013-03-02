@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_file_support</string>
+		<key>shortTitle</key>
+		<string>Fichiers consultables</string>
+		<key>title</key>
+		<string>Quels fichiers puis-je consulter ?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_share</string>
+		<key>shortTitle</key>
+		<string>Partage de fichiers</string>
+		<key>title</key>
+		<string>Consultation de fichiers hors ligne</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_favorites</string>
+		<key>shortTitle</key>
+		<string>Fichiers hors ligne</string>
+		<key>title</key>
+		<string>Comment consulter des fichiers hors ligne ?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_video</string>
+		<key>shortTitle</key>
+		<string>Lecture de vidéos</string>
+		<key>title</key>
+		<string>Comment lire des vidéos ?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_upload</string>
+		<key>shortTitle</key>
+		<string>Chargement de fichiers</string>
+		<key>title</key>
+		<string>Comment charger des fichiers ?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_location_permission</string>
+		<key>shortTitle</key>
+		<string>Permission de localisation</string>
+		<key>title</key>
+		<string>Pourquoi les données de localisation sont-elles requises?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_passcode</string>
+		<key>shortTitle</key>
+		<string>Code</string>
+		<key>title</key>
+		<string>Comment créer un code?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_store</string>
+		<key>shortTitle</key>
+		<string>Limites de stockage</string>
+		<key>title</key>
+		<string>Quelle est la capacité de stockage ?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_delete</string>
+		<key>shortTitle</key>
+		<string>Suppression de fichiers</string>
+		<key>title</key>
+		<string>Comment supprimer des fichiers ?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_camera_upload</string>
+		<key>shortTitle</key>
+		<string>Camera Upload</string>
+		<key>title</key>
+		<string>How do I use Camera Upload?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_syncing</string>
+		<key>shortTitle</key>
+		<string>Mobile Syncing</string>
+		<key>title</key>
+		<string>How does syncing work?</string>
+	</dict>
+</array>
+</plist>

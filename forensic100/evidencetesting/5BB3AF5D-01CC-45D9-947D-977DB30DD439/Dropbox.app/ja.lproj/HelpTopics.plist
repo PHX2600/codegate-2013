@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_file_support</string>
+		<key>shortTitle</key>
+		<string>閲覧できるファイル</string>
+		<key>title</key>
+		<string>どのようなファイルが閲覧できますか？</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_share</string>
+		<key>shortTitle</key>
+		<string>ファイルの共有</string>
+		<key>title</key>
+		<string>ファイルを共有する方法は？</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_favorites</string>
+		<key>shortTitle</key>
+		<string>オフラインファイル</string>
+		<key>title</key>
+		<string>ファイルをオフラインで閲覧する方法は？</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_video</string>
+		<key>shortTitle</key>
+		<string>ビデオの再生</string>
+		<key>title</key>
+		<string>ビデオを再生する方法は？</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_upload</string>
+		<key>shortTitle</key>
+		<string>ファイルのアップロード</string>
+		<key>title</key>
+		<string>ファイルをアップロードする方法は？</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_location_permission</string>
+		<key>shortTitle</key>
+		<string>位置情報の許可</string>
+		<key>title</key>
+		<string>位置情報は何故いりますか?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_passcode</string>
+		<key>shortTitle</key>
+		<string>パスコード</string>
+		<key>title</key>
+		<string>パスコードを設定には...</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_store</string>
+		<key>shortTitle</key>
+		<string>保存容量の上限</string>
+		<key>title</key>
+		<string>保存できる容量は？</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_delete</string>
+		<key>shortTitle</key>
+		<string>ファイルの削除</string>
+		<key>title</key>
+		<string>ファイルを削除する方法は？</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_camera_upload</string>
+		<key>shortTitle</key>
+		<string>Camera Upload</string>
+		<key>title</key>
+		<string>How do I use Camera Upload?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_syncing</string>
+		<key>shortTitle</key>
+		<string>Mobile Syncing</string>
+		<key>title</key>
+		<string>How does syncing work?</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_file_support</string>
+		<key>shortTitle</key>
+		<string>Archivos visualizables</string>
+		<key>title</key>
+		<string>¿Qué archivos se pueden visualizar?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_share</string>
+		<key>shortTitle</key>
+		<string>Cómo compartir archivos</string>
+		<key>title</key>
+		<string>¿Cómo se comparten los archivos?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_favorites</string>
+		<key>shortTitle</key>
+		<string>Archivos sin conexión</string>
+		<key>title</key>
+		<string>¿Cómo se pueden visualizar los archivos sin conexión?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_video</string>
+		<key>shortTitle</key>
+		<string>Reproducción de vídeo</string>
+		<key>title</key>
+		<string>¿Cómo se reproducen los vídeos?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_upload</string>
+		<key>shortTitle</key>
+		<string>Subida de archivos</string>
+		<key>title</key>
+		<string>¿Cómo se suben los archivos?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_location_permission</string>
+		<key>shortTitle</key>
+		<string>Permiso de ubicación</string>
+		<key>title</key>
+		<string>¿Por qué necesita Dropbox datos de ubicación?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_passcode</string>
+		<key>shortTitle</key>
+		<string>Código</string>
+		<key>title</key>
+		<string>¿Cómo se define un código de acceso?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_store</string>
+		<key>shortTitle</key>
+		<string>Límites de almacenamiento</string>
+		<key>title</key>
+		<string>¿Cuánto espacio se puede almacenar?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_delete</string>
+		<key>shortTitle</key>
+		<string>Cómo eliminar archivos</string>
+		<key>title</key>
+		<string>¿Cómo se eliminan los archivos?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_camera_upload</string>
+		<key>shortTitle</key>
+		<string>Camera Upload</string>
+		<key>title</key>
+		<string>How do I use Camera Upload?</string>
+	</dict>
+	<dict>
+		<key>article_tag</key>
+		<string>mobile_syncing</string>
+		<key>shortTitle</key>
+		<string>Mobile Syncing</string>
+		<key>title</key>
+		<string>How does syncing work?</string>
+	</dict>
+</array>
+</plist>

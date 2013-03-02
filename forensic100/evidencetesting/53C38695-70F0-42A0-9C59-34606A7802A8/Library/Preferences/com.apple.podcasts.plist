@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MTSyncSubscriptions</key>
+	<true/>
+	<key>MTSyncSubscriptionsAskKey</key>
+	<true/>
+	<key>MTTopLibraryVersion</key>
+	<integer>1</integer>
+	<key>SSDeviceType_N90AP</key>
+	<integer>27</integer>
+	<key>kMTHasImportedMediaLibrary</key>
+	<true/>
+	<key>kMTHasResetDefault1_1</key>
+	<true/>
+	<key>kMTUPPTransitionContextUPPDomainVersionKey</key>
+	<string>0</string>
+</dict>
+</plist>

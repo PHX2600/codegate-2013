@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>CUAlbumAssets 2.0</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>CUAlbumAssets</key>
+		<dict>
+			<key>CUAlbumAsset</key>
+			<data>
+			w3SY26PeY+O9+D1qlHIo0kmXFSkatc7ZRGg92N3KfvI=
+			</data>
+		</dict>
+		<key>CUAlbumAssets 1.5.7</key>
+		<dict>
+			<key>CUAlbumAsset</key>
+			<data>
+			hq8QanYsXYYOyfSIOfrgIOLYLFFaq5gmWS+kNKlp1KQ=
+			</data>
+		</dict>
+		<key>CUAlbumAssets 2.0</key>
+		<dict>
+			<key>CUAlbumAsset</key>
+			<data>
+			X5Nw+w5yr0pvGGvEp0uXQUVfylRYJhoOp0h4kwHyU+Q=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

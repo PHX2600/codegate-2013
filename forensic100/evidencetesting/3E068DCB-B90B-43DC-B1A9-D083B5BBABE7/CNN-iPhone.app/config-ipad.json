@@ -1,0 +1,300 @@
+{
+    "nav": [
+            {
+            "title" : "CNN",
+            "id" : "cnn",
+            "rows" : [
+                      {
+                      "title" : "Top Stories",
+                      "id": "topstories",
+                      "domestic": {
+                      "url": "http://api.cnn.com/svc/tablet/v1/ipad/published?edition=www"
+                      },
+                      "international": {
+                      "url": "http://api.cnn.com/svc/tablet/v1/ipad/published?edition=intl"
+                      },
+                      "ad_domestic": "cnn.com_mobile_apps_main_ipad_topstories",
+                      "ad_international": "edition.cnn.com_mobile_apps_main_ipad_topstories"
+                      },
+                      {
+                      "title": "Featured",
+                      "id": "featured",
+                      "domestic": {
+                      "url": "http://www.cnn.com/partners/newspulse/fc/www.main.json"
+                      },
+                      "international": {
+                      "url": "http://www.cnn.com/partners/newspulse/fc/intl.main.json"
+                      },
+                      "ad_domestic": "cnn.com_mobile_apps_main_ipad_topstories",
+                      "ad_international": "edition.cnn.com_mobile_apps_main_ipad_topstories",
+                      "article_sort_order": "none"
+                      }
+                      ]
+            },
+            {
+            "title" : "TV & VIDEO",
+            "id" : "tv-video",
+            "rows": {
+                "domestic": [
+                         {
+                         "title": "CNN TV Live",
+                         "id": "livetv"
+                         },
+                         {
+                         "title": "Latest",
+                         "id": "videos",
+                         "url": "http://api.cnn.com/svc/tablet/v1/ipad/published?edition=www",
+                         "ad_domestic": "cnn.com_mobile_apps_main_ipad_topstories",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_ipad_topstories"
+                         }
+                         ],
+                "international": [
+                              {
+                              "title": "Latest",
+                              "id": "videos",
+                              "url": "http://api.cnn.com/svc/tablet/v1/ipad/published?edition=www",
+                              "ad_domestic": "cnn.com_mobile_apps_main_ipad_topstories",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_ipad_topstories"
+                              }
+                              ]
+                }
+            },
+            {
+            "title" : "SECTIONS",
+            "id" : "categories",
+            "rowcount" : "3",
+            "rows" : {
+            "domestic": [
+                         {
+                         "title": "U.S.",
+                         "id": "us",
+                         "ad_domestic": "cnn.com_mobile_apps_main_ipad_us",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_ipad_us"
+                         },
+                         {
+                         "title": "World",
+                         "id": "world",
+                         "ad_domestic": "cnn.com_mobile_apps_main_ipad_world",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_ipad_world"
+                         },
+                         {
+                         "title": "Politics",
+                         "id": "politics",
+                         "ad_domestic": "cnn.com_mobile_apps_main_ipad_politics",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_ipad_politics"
+                         },
+                         {
+                         "title": "Justice",
+                         "id": "crime",
+                         "ad_domestic": "cnn.com_mobile_apps_main_ipad_justice",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_ipad_justice"
+                         },
+                         {
+                         "title": "Entertainment",
+                         "id": "showbiz",
+                         "ad_domestic": "cnn.com_mobile_apps_main_ipad_entertainment",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_ipad_entertainment"
+                         },
+                         {
+                         "title": "Tech",
+                         "id": "tech",
+                         "ad_domestic": "cnn.com_mobile_apps_main_ipad_technology",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_ipad_technology"
+                         },
+                         {
+                         "title": "Our Mobile Society",
+                         "id": "oms",
+                         "ad_domestic": "cnn.com_mobile_apps_main_ipad_ourmobilesociety",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_ipad_ourmobilesociety",
+                         "url": "http://api.cnn.com/svc/mcs/specials/ourmobilesociety/ipad",
+                         "branding": "our.mobile.society",
+                         "article_sort_order": "none"
+                         },
+                         {
+                         "title": "This Just In",
+                         "id": "justin",
+                         "ad_domestic": "cnn.com_mobile_apps_main_ipad_topstories",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_ipad_topstories",
+                         "url": "http://api.cnn.com/svc/tablet/v1/ipad/blog?source=news",
+                         "article_sort_order": "none"
+                         },
+                         {
+                         "title": "Money",
+                         "id": "money",
+                         "ad_domestic": "cnn.com_mobile_apps_main_ipad_money",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_ipad_money",
+                         "url": "http://api.cnn.com/svc/tablet/v1/ipad/category?category=money&edition=www"
+                         },
+                         {
+                         "title": "Health",
+                         "id": "health",
+                         "ad_domestic": "cnn.com_mobile_apps_main_ipad_health",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_ipad_health"
+                         },
+                         {
+                         "title": "Living and Travel",
+                         "id": "living,travel",
+                         "ad_domestic": "cnn.com_mobile_apps_main_ipad_living",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_ipad_living"
+                         },
+                         {
+                         "title": "Opinion",
+                         "id": "opinion",
+                         "ad_domestic": "cnn.com_mobile_apps_main_ipad_opinion",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_ipad_opinion"
+                         },
+                         {
+                         "title": "CNN Heroes",
+                         "id": "heroes",
+                         "ad_domestic": "cnn.com_mobile_apps_main_ipad_cnnheroes",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_ipad_cnnheroes",
+                         "url": "http://api.cnn.com/svc/mcs/specials/cnnheroes/ipad",
+                         "branding": "sprj.hero07",
+                         "link": {
+                         "type": "http://heroes.cnn.com/mobile",
+                         "image": "http://i2.cdn.turner.com/cnn/partners/ios/images/1.7/heroes/ipad_heroes_vote_2.jpg",
+                         "position": 2
+                         },
+                         
+                         "article_sort_order": "none"
+                         }
+                         
+                         ],
+            "international": [
+                              {
+                              "title": "U.S.",
+                              "id": "us",
+                              "ad_domestic": "cnn.com_mobile_apps_main_ipad_us",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_ipad_us"
+                              },
+                              {
+                              "title": "Africa",
+                              "id": "world-africa",
+                              "ad_domestic": "cnn.com_mobile_apps_main_ipad_africa",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_ipad_africa"
+                              },
+                              {
+                              "title": "Asia",
+                              "id": "world-asiapcf",
+                              "ad_domestic": "cnn.com_mobile_apps_main_ipad_asia",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_ipad_asia"
+                              },
+                              {
+                              "title": "Europe",
+                              "id": "world-europe",
+                              "ad_domestic": "cnn.com_mobile_apps_main_ipad_europe",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_ipad_europe"
+                              },
+                              {
+                              "title": "Latin America",
+                              "id": "world-americas",
+                              "ad_domestic": "cnn.com_mobile_apps_main_ipad_latinamerica",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_ipad_latinamerica"
+                              },
+                              {
+                              "title": "Middle East",
+                              "id": "world-meast",
+                              "ad_domestic": "cnn.com_mobile_apps_main_ipad_middleeast",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_ipad_middleeast"
+                              },
+                              {
+                              "title": "Business",
+                              "id": "business",
+                              "ad_domestic": "cnn.com_mobile_apps_main_ipad_business",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_ipad_business"
+                              },
+                              {
+                              "title": "World Sport",
+                              "id": "sport",
+                              "ad_domestic": "cnn.com_mobile_apps_main_ipad_sport",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_ipad_sport"
+                              },
+                              {
+                              "title": "Entertainment",
+                              "id": "showbiz",
+                              "ad_domestic": "cnn.com_mobile_apps_main_ipad_entertainment",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_ipad_entertainment"
+                              },
+                              {
+                              "title": "Our Mobile Society",
+                              "id": "oms",
+                              "ad_domestic": "cnn.com_mobile_apps_main_ipad_ourmobilesociety",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_ipad_ourmobilesociety",
+                              "url": "http://api.cnn.com/svc/mcs/specials/ourmobilesociety/ipad",
+                              "branding": "our.mobile.society",
+                              "article_sort_order": "none"
+                              },
+                              
+                              {
+                              "title": "U.S. Politics",
+                              "id": "politics",
+                              "ad_domestic": "cnn.com_mobile_apps_main_ipad_politics",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_ipad_politics"
+                              },
+                              {
+                              "title": "Living and Travel",
+                              "id": "living,travel",
+                              "ad_domestic": "cnn.com_mobile_apps_main_ipad_travel",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_ipad_travel"
+                              },
+                              {
+                              "title": "Health",
+                              "id": "health",
+                              "ad_domestic": "cnn.com_mobile_apps_main_ipad_health",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_ipad_health"
+                              },
+                              {
+                              "title": "Opinion",
+                              "id": "opinion",
+                              "ad_domestic": "cnn.com_mobile_apps_main_ipad_opinion",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_ipad_opinion"
+                              },
+                              {
+                              "title": "This Just In",
+                              "id": "justin",
+                              "ad_domestic": "cnn.com_mobile_apps_main_ipad_topstories",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_ipad_topstories",
+                              "url": "http://api.cnn.com/svc/tablet/v1/ipad/blog?source=news",
+                              "article_sort_order": "none"
+                              },
+                              {
+                              "title": "CNN Heroes",
+                              "id": "heroes",
+                              "ad_domestic": "cnn.com_mobile_apps_main_ipad_cnnheroes",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_ipad_cnnheroes",
+                              "url": "http://api.cnn.com/svc/mcs/specials/cnnheroes/ipad",
+                              "branding": "sprj.hero07",
+                              "link": {
+                              "type": "http://heroes.cnn.com/mobile",
+                              "image": "http://i2.cdn.turner.com/cnn/partners/ios/images/1.7/heroes/ipad_heroes_vote_2.jpg",
+                              "position": 2
+                              },
+                              "article_sort_order": "none"
+                              }
+                              ]
+            }
+            },
+            {
+            "title" : "MORE",
+            "id" : "more",
+            "rows" : [
+                      {
+                      "title": "Profile",
+                      "id": "profile"
+                      },
+                      {
+                      "title": "Contact CNN",
+                      "id": "contactus"
+                      }
+                      ]
+            }
+            ]
+    ,
+    "cvp_clips": {
+        "container": "http://www.cnn.com/.element/apps/cvp/ios/cfg/new/container.xml",
+        "config": "http://www.cnn.com/.element/apps/cvp/ios/cfg/new/config.xml",
+        "context": "iPad_Clips"
+    },
+    "article_sort_order": "editorialWeight,published",
+    "election_center_cta": "false"
+}

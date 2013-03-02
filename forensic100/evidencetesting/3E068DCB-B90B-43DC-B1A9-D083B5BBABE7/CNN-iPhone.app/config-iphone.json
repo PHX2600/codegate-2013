@@ -1,0 +1,339 @@
+{
+    "nav": [
+            {
+            "title" : "SECTIONS",
+            "id" : "categories",
+            "rows" : {
+            "domestic": [
+                         {
+                         "title" : "Top Stories",
+                         "id": "topstories",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_topstories",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_topstories"
+                         },
+                         {
+                         "title": "U.S.",
+                         "id": "us",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_us",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_us"
+                         },
+                         {
+                         "title": "World",
+                         "id": "world",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_world",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_world"
+                         },
+                         {
+                         "title": "Politics",
+                         "id": "politics",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_politics",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_politics"
+                         },
+                         {
+                         "title": "Justice",
+                         "id": "crime",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_justice",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_justice"
+                         },
+                         {
+                         "title": "Entertainment",
+                         "id": "entertainment",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_entertainment",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_entertainment"
+                         },
+                         {
+                         "title": "Tech",
+                         "id": "tech",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_technology",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_technology"
+                         },
+                         {
+                         "title": "This Just In",
+                         "id": "justin",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_thisjustin",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_thisjustin",
+                         "url": "http://api.cnn.com/svc/mobile/v1/iphone/blog?source=news"
+                         },
+                         {
+                         "title": "Money",
+                         "id": "money",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_money",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_money",
+                         "url": "http://api.cnn.com/svc/mobile/v1/iphone/category?category=money"
+                         },
+                         {
+                         "title": "Health",
+                         "id": "health",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_health",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_health"
+                         },
+                         {
+                         "title": "Living",
+                         "id": "living",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_living",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_living"
+                         },
+                         {
+                         "title": "Travel",
+                         "id": "travel",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_travel",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_travel"
+                         },
+                         {
+                         "title": "Opinion",
+                         "id": "opinion",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_opinion",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_opinion"
+                         }
+                         
+                         ],
+            "international": [
+                              {
+                              "title" : "Top Stories",
+                              "id": "intl-main",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_topstories",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_topstories"
+                              },
+                              {
+                              "title": "U.S.",
+                              "id": "us",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_us",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_us"
+                              },
+                              {
+                              "title": "Africa",
+                              "id": "africa",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_africa",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_africa"
+                              },
+                              {
+                              "title": "Asia",
+                              "id": "asia",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_asia",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_asia"
+                              },
+                              {
+                              "title": "Europe",
+                              "id": "europe",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_europe",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_europe"
+                              },
+                              {
+                              "title": "Latin America",
+                              "id": "latam",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_latinamerica",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_latinamerica"
+                              },
+                              {
+                              "title": "Middle East",
+                              "id": "mideast",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_middleeast",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_middleeast"
+                              },
+                              {
+                              "title": "Business",
+                              "id": "business",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_business",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_business"
+                              },
+                              {
+                              "title": "World Sport",
+                              "id": "sport",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_sport",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_sport"
+                              },
+                              {
+                              "title": "Entertainment",
+                              "id": "entertainment",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_entertainment",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_entertainment"
+                              },
+                              {
+                              "title": "Tech",
+                              "id": "tech",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_technology",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_technology"
+                              },
+                              {
+                              "title": "Travel",
+                              "id": "travel",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_travel",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_travel"
+                              },
+                              {
+                              "title": "This Just In",
+                              "id": "justin",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_thisjustin",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_thisjustin",
+                              "url": "http://api.cnn.com/svc/mobile/v1/iphone/blog?source=news"
+                              }
+                              ]
+            }
+            },
+            {
+            "title" : "TV & VIDEO",
+            "id" : "videos",
+            "rows" : {
+            "domestic": [
+                         {
+                         "title": "Latest News",
+                         "id": "video-topvideo",
+                         "section":"http://www.cnn.com/partners/android/video/video_feed_topvideos.xml",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_videolatestnews",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_videolatestnews"
+                         },
+                         {
+                         "title": "Most Popular",
+                         "id": "video-mostpopular",
+                         "section":"http://www.cnn.com/partners/android/video/video_feed_us_most_popular.xml",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_videomostpopular",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_videomostpopular"
+                         },
+                         {
+                         "title": "On TV",
+                         "id": "video-ontv",
+                         "section":"http://www.cnn.com/partners/android/video/video_feed_on_tv.xml",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_videoontv",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_videoontv"
+                         },
+                         {
+                         "title": "U.S.",
+                         "id": "video-us",
+                         "section":"http://www.cnn.com/partners/android/video/video_feed_us.xml",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_videous",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_videous"
+                         },
+                         {
+                         "title": "World",
+                         "id": "video-world",
+                         "section":"http://www.cnn.com/partners/android/video/video_feed_world.xml",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_videoworld",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_videoworld"
+                         },
+                         {
+                         "title": "Politics",
+                         "id": "video-politics",
+                         "section":"http://www.cnn.com/partners/android/video/video_feed_politics.xml",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_videopolitics",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_videopolitics"
+                         },
+                         {
+                         "title": "Entertainment",
+                         "id": "video-showbiz",
+                         "section":"http://www.cnn.com/partners/android/video/video_feed_showbiz.xml",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_videoentertainment",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_videoentertainment"
+                         },
+                         {
+                         "title": "Tech",
+                         "id": "video-tech",
+                         "section":"http://www.cnn.com/partners/android/video/video_feed_tech.xml",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_videotechnology",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_videotechnology"
+                         },
+                         {
+                         "title": "Health",
+                         "id": "video-health",
+                         "section":"http://www.cnn.com/partners/android/video/video_feed_health.xml",
+                         "ad_domestic": "cnn.com_mobile_apps_main_iphone_videohealth",
+                         "ad_international": "edition.cnn.com_mobile_apps_main_iphone_videohealth"
+                         }
+                         ],
+            "international": [
+                              {
+                              "title": "World",
+                              "id": "video-world",
+                              "section":"http://www.cnn.com/partners/android/video/video_feed_world.xml",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_videoworld",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_videoworld"
+                              },
+                              {
+                              "title": "Most Popular",
+                              "id": "video-intl-mostpopular",
+                              "section":"http://www.cnn.com/partners/android/video/video_feed_intl_most_popular.xml",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_videomostpopular",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_videomostpopular"
+                              },
+                              {
+                              "title": "Sport",
+                              "id": "video-intl-sport",
+                              "section":"http://www.cnn.com/partners/android/video/video_feed_sports.xml",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_videosport",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_videosport"
+                              },
+                              {
+                              "title": "Business",
+                              "id": "video-business",
+                              "section":"http://www.cnn.com/partners/android/video/video_feed_business.xml",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_videobusiness",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_videobusiness"
+                              },
+                              {
+                              "title": "U.S.",
+                              "id": "video-us",
+                              "section":"http://www.cnn.com/partners/android/video/video_feed_us.xml",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_videous",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_videous"
+                              },
+                              {
+                              "title": "Entertainment",
+                              "id": "video-showbiz",
+                              "section":"http://www.cnn.com/partners/android/video/video_feed_showbiz.xml",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_videoentertainment",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_videoentertainment"
+                              },
+                              {
+                              "title": "Tech",
+                              "id": "video-tech",
+                              "section":"http://www.cnn.com/partners/android/video/video_feed_tech.xml",
+                              "ad_domestic": "cnn.com_mobile_apps_main_iphone_videotechnology",
+                              "ad_international": "edition.cnn.com_mobile_apps_main_iphone_videotechnology"
+                              }
+                              ]
+            }
+            },
+            {
+            "title" : "MORE",
+            "id" : "more",
+            "rows" : [
+                      {
+                      "title": "Settings",
+                      "id": "settings"
+                      },
+                      {
+                      "title": "Contact CNN",
+                      "id": "contactus"
+                      },
+                      {
+                      "title": "Tips & Tricks",
+                      "id": "tipsandtricks"
+                      },
+                      {
+                      "title": "Rate",
+                      "id": "rate"
+                      },
+                      {
+                      "title": "Privacy Policy",
+                      "id": "privacypolicy"
+                      },
+                      {
+                      "title": "Terms & Conditions",
+                      "id": "termsandconditions"
+                      },
+                      {
+                      "title": "Help for Closed Captioning",
+                      "id": "closedcaptioning"
+                      }
+                      ]
+            }
+            ]
+    ,
+    "cvp_clips": {
+        "container": "http://www.cnn.com/partners/ios/config/1.7.i5/CVP/container.xml",
+        "config": "http://www.cnn.com/partners/ios/config/1.7.i5/CVP/config.xml",
+        "context": "iPhone_Clips",
+        "context_hd": "HD_Clips"
+    },
+    "article_sort_order": "none",
+    "election_center_cta": "true"
+}
