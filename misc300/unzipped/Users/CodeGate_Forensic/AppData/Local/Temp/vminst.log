@@ -1,0 +1,663 @@
+BootStrapper-build-799703: 12/24/12 11:31:50 Begin Logging
+BootStrapper-build-799703: 12/24/12 11:31:50 Operating system info:
+BootStrapper-build-799703: 12/24/12 11:31:50    Admin install = TRUE
+BootStrapper-build-799703: 12/24/12 11:31:50    Major version = 6
+BootStrapper-build-799703: 12/24/12 11:31:50    Minor version = 1
+BootStrapper-build-799703: 12/24/12 11:31:50    Service pack  = 0
+BootStrapper-build-799703: 12/24/12 11:31:50    Build number  = 7600
+BootStrapper-build-799703: 12/24/12 11:31:50    Bitness       = 32-bit
+BootStrapper-build-799703: 12/24/12 11:31:50    Platform      = NT
+BootStrapper-build-799703: 12/24/12 11:31:50 Running from: "D:\setup.exe"
+BootStrapper-build-799703: 12/24/12 11:31:50 Command line: 
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] MINORUPGRADE = 1
+BootStrapper-build-799703: 12/24/12 11:31:50 Performing VMware Tools style install/upgrade
+BootStrapper-build-799703: 12/24/12 11:31:50 Sending rpc command 'info-set guestinfo.toolsInstallErrCode Invalid' to the host
+BootStrapper-build-799703: 12/24/12 11:31:50 Rpci: Sending request='info-set guestinfo.toolsInstallErrCode Invalid'
+
+BootStrapper-build-799703: 12/24/12 11:31:50 Rpci: Sent request='info-set guestinfo.toolsInstallErrCode Invalid', reply='', len=0, status=1
+
+BootStrapper-build-799703: 12/24/12 11:31:50 Sending rpc command 'toolinstall.installerActive 1' to the host
+BootStrapper-build-799703: 12/24/12 11:31:50 Rpci: Sending request='toolinstall.installerActive 1'
+
+BootStrapper-build-799703: 12/24/12 11:31:50 Rpci: Sent request='toolinstall.installerActive 1', reply='', len=0, status=1
+
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] SINGLE_FILE = 1
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] PRODUCT_REG_NAME = <not defined>
+BootStrapper-build-799703: 12/24/12 11:31:50 Checking to see if this is a upgrade at shutdown case [(null)]
+BootStrapper-build-799703: 12/24/12 11:31:50 Upgrade at shutdown [FALSE]
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] SKIPADMINCHECK = <not defined>
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] OPERATION = INSTALLUPD
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] PRODUCTNAME = VMware Tools
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] UPGRADECODE = {BA0EA5A0-F474-459F-ABF5-5BCC22965199}
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] PRODUCTCODE = {289A6A0F-B384-4098-804E-6EF3738A0069}
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] LANGUAGES = 1031 1033 1034 1036 1040 1041 1042 2052
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] VM_DATABASE = VMware Tools.msi
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] SFXINSERT = 2833408
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] VMIOPTION = 
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] MINIMUM_9X_MSI = 200
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] MINIMUM_NT_MSI = 300
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] INSTMSIW = instmsiw.exe
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] VCRUNTIME32 = vcredist_x86.exe
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] VCRUNTIME64 = <not defined>
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] PROPERTIES = <not defined>
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] OLDCODES = {B53D42E8-872B-430E-82D4-80065A31FCE1};{3B410500-1802-488E-9EF1-4B11992E0440};{FE2F6A2C-196E-4210-9C04-2B1BC21F07EF}
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] HELPER_UI = <not defined>
+BootStrapper-build-799703: 12/24/12 11:31:50 [Info] Loading splash bitmap from resource id 1033.
+BootStrapper-build-799703: 12/24/12 11:31:50 [Info] Loaded splash bitmap from resource 1033.
+BootStrapper-build-799703: 12/24/12 11:31:50 UI thread started successfully
+BootStrapper-build-799703: 12/24/12 11:31:50 Total unpacked size will be 27 MB (28052584 bytes)
+BootStrapper-build-799703: 12/24/12 11:31:50 [Resource] REQ_MB_SPACE = <not defined>
+BootStrapper-build-799703: 12/24/12 11:31:50 Total space required to unpack is 59 MB (60926076 bytes)
+BootStrapper-build-799703: 12/24/12 11:31:50 Attempting to find best location for unpacking temporary installation files
+BootStrapper-build-799703: 12/24/12 11:31:50 Examining drive for temp folder "C:\Users\CODEGA~1\AppData\Local\Temp\"
+BootStrapper-build-799703: 12/24/12 11:31:50 Local fixed drive C: has 1025 MB (1074216960 bytes) free
+BootStrapper-build-799703: 12/24/12 11:31:51 Removable drive A: has 0 MB (0 bytes) free
+BootStrapper-build-799703: 12/24/12 11:31:51 CurrentLocation "C:\Users\CODEGA~1\AppData\Local\Temp\{289A6A0F-B384-4098-804E-6EF3738A0069}~setup\"
+BootStrapper-build-799703: 12/24/12 11:31:51 Not a directory: 2 - C:\Users\CODEGA~1\AppData\Local\Temp\{289A6A0F-B384-4098-804E-6EF3738A0069}~setup\
+BootStrapper-build-799703: 12/24/12 11:31:51 Creating directory 'C:\Users\CODEGA~1\AppData\Local\Temp\{289A6A0F-B384-4098-804E-6EF3738A0069}~setup\'
+BootStrapper-build-799703: 12/24/12 11:31:51 Selecting "C:\Users\CODEGA~1\AppData\Local\Temp\{289A6A0F-B384-4098-804E-6EF3738A0069}~setup\" for unpacking temp files
+BootStrapper-build-799703: 12/24/12 11:31:51 Extracting setup files to "C:\Users\CODEGA~1\AppData\Local\Temp\{289A6A0F-B384-4098-804E-6EF3738A0069}~setup\"
+BootStrapper-build-799703: 12/24/12 11:31:51   --> instmsiw.exe [2585872]
+BootStrapper-build-799703: 12/24/12 11:31:51   --> VMware Tools.msi [20980736]
+BootStrapper-build-799703: 12/24/12 11:31:51   --> vcredist_x86.exe [4485976]
+BootStrapper-build-799703: 12/24/12 11:31:51 IsMsiUpgradeNecessary: No upgrade is necessary. Windows Installer version 500 meets minimum requirements
+BootStrapper-build-799703: 12/24/12 11:31:51 [Resource] VCRUNTIME_VER = 9
+BootStrapper-build-799703: 12/24/12 11:31:51 Look for VC 9 x32 runtime libraries.
+BootStrapper-build-799703: 12/24/12 11:31:51 install state for product code {1F1C2DFC-2D24-3E06-BCB8-725134ADF989} = -1
+BootStrapper-build-799703: 12/24/12 11:31:51 VC 9 x32 runtime libraries need to be installed
+BootStrapper-build-799703: 12/24/12 11:31:51 ** InstallVCRedist [vcredist_x86.exe][ /Q]
+BootStrapper-build-799703: 12/24/12 11:31:51 Found "C:\Users\CODEGA~1\AppData\Local\Temp\{289A6A0F-B384-4098-804E-6EF3738A0069}~setup\vcredist_x86.exe"
+BootStrapper-build-799703: 12/24/12 11:31:51 Attempting to launch ""C:\Users\CODEGA~1\AppData\Local\Temp\{289A6A0F-B384-4098-804E-6EF3738A0069}~setup\vcredist_x86.exe"  /Q"
+BootStrapper-build-799703: 12/24/12 11:32:02 Child exited with code 0
+BootStrapper-build-799703: 12/24/12 11:32:02 Process returned 0
+BootStrapper-build-799703: 12/24/12 11:32:04 Setting Internal UI level to 5
+BootStrapper-build-799703: 12/24/12 11:32:04 CommandLine Properties = ""
+BootStrapper-build-799703: 12/24/12 11:32:04 Checking for existing product {289A6A0F-B384-4098-804E-6EF3738A0069}
+BootStrapper-build-799703: 12/24/12 11:32:04 Checking for existing product {B53D42E8-872B-430E-82D4-80065A31FCE1}
+BootStrapper-build-799703: 12/24/12 11:32:04 Checking for existing product {3B410500-1802-488E-9EF1-4B11992E0440}
+BootStrapper-build-799703: 12/24/12 11:32:04 Checking for existing product {FE2F6A2C-196E-4210-9C04-2B1BC21F07EF}
+BootStrapper-build-799703: 12/24/12 11:32:04 No existing products found
+BootStrapper-build-799703: 12/24/12 11:32:04 The product code {289A6A0F-B384-4098-804E-6EF3738A0069} is unknown. Use first time install logic.
+BootStrapper-build-799703: 12/24/12 11:32:04 MSI logging to "C:\Users\CODEGA~1\AppData\Local\Temp\vmmsi.log"
+BootStrapper-build-799703: 12/24/12 11:32:04 CWD is now "C:\Users\CODEGA~1\AppData\Local\Temp\{289A6A0F-B384-4098-804E-6EF3738A0069}~setup\"
+BootStrapper-build-799703: 12/24/12 11:32:04 Calling InstallProduct():
+BootStrapper-build-799703: 12/24/12 11:32:04   MSI file  : "C:\Users\CODEGA~1\AppData\Local\Temp\{289A6A0F-B384-4098-804E-6EF3738A0069}~setup\VMware Tools.msi"
+BootStrapper-build-799703: 12/24/12 11:32:04   Properties:  TRANSFORMS=:1033
+tools-build-799703: 12/24/12 11:32:06 Begin Logging
+tools-build-799703: 12/24/12 11:32:06 ##############################################################
+tools-build-799703: 12/24/12 11:32:06 Getting Property Installed = 
+tools-build-799703: 12/24/12 11:32:06 Getting Property UILevel = 5
+tools-build-799703: 12/24/12 11:32:06 Starting in full UI mode (Releasebuild-799703)
+tools-build-799703: 12/24/12 11:32:06 Tools is not installed
+tools-build-799703: 12/24/12 11:32:06 End Logging
+instUtils-build-799703: 12/24/12 11:32:06 Begin Logging
+instUtils-build-799703: 12/24/12 11:32:06 Checking System Version
+instUtils-build-799703: 12/24/12 11:32:06 Setting property VMSYSVER = :WIN7:WINDOWS 7:ULTIMATE EDITION:BIT=32:SPMAJ=0:SPMIN=0:BUILD=7600:
+instUtils-build-799703: 12/24/12 11:32:06 Done System Version
+instUtils-build-799703: 12/24/12 11:32:06 End Logging
+instUtils-build-799703: 12/24/12 11:32:06 Begin Logging
+instUtils-build-799703: 12/24/12 11:32:06 Checking System Version
+instUtils-build-799703: 12/24/12 11:32:06 Setting property VMSYSVER = :WIN7:WINDOWS 7:ULTIMATE EDITION:BIT=32:SPMAJ=0:SPMIN=0:BUILD=7600:
+instUtils-build-799703: 12/24/12 11:32:06 Done System Version
+instUtils-build-799703: 12/24/12 11:32:06 End Logging
+instUtils-build-799703: 12/24/12 11:32:06 Begin Logging
+instUtils-build-799703: 12/24/12 11:32:06 Checking System Version
+instUtils-build-799703: 12/24/12 11:32:06 Setting property VMSYSVER = :WIN7:WINDOWS 7:ULTIMATE EDITION:BIT=32:SPMAJ=0:SPMIN=0:BUILD=7600:
+instUtils-build-799703: 12/24/12 11:32:06 Done System Version
+instUtils-build-799703: 12/24/12 11:32:06 End Logging
+tools-build-799703: 12/24/12 11:32:07 Begin Logging
+tools-build-799703: 12/24/12 11:32:07 --- VMCheckRequirements()
+tools-build-799703: 12/24/12 11:32:07 Getting Property UILevel = 5
+tools-build-799703: 12/24/12 11:32:07 Getting Property REMOVE = 
+tools-build-799703: 12/24/12 11:32:07 Inside a VM or possibly uninstalling from outside of a VM.
+tools-build-799703: 12/24/12 11:32:07 Setting property VM_TYPE = WS
+tools-build-799703: 12/24/12 11:32:07 VMX is Workstation (WS)
+tools-build-799703: 12/24/12 11:32:07 End Logging
+instUtils-build-799703: 12/24/12 11:32:09 Begin Logging
+instUtils-build-799703: 12/24/12 11:32:09 Stopping services.
+instUtils-build-799703: 12/24/12 11:32:09 End Logging
+tools-build-799703: 12/24/12 11:32:09 Begin Logging
+tools-build-799703: 12/24/12 11:32:09 --- VMStartStopServices()
+tools-build-799703: 12/24/12 11:32:09 Getting Property VMStartStopServices = 0
+tools-build-799703: 12/24/12 11:32:09 End Logging
+instUtils-build-799703: 12/24/12 11:32:09 Begin Logging
+instUtils-build-799703: 12/24/12 11:32:09 Stopping services.
+instUtils-build-799703: 12/24/12 11:32:09 End Logging
+tools-build-774885: 12/24/12 11:32:10 Begin Logging
+tools-build-774885: 12/24/12 11:32:10 --- VMReportExpectedTicks()
+tools-build-774885: 12/24/12 11:32:10 End Logging
+tools-build-799703: 12/24/12 11:32:10 Begin Logging
+tools-build-799703: 12/24/12 11:32:10 --- VMReportExpectedTicks()
+tools-build-799703: 12/24/12 11:32:10 End Logging
+tools-build-799703: 12/24/12 11:32:10 Begin Logging
+tools-build-799703: 12/24/12 11:32:10 --- VMReportExpectedTicks()
+tools-build-799703: 12/24/12 11:32:10 End Logging
+tools-build-799703: 12/24/12 11:32:10 Begin Logging
+tools-build-799703: 12/24/12 11:32:10 --- VMReportExpectedTicks()
+tools-build-799703: 12/24/12 11:32:10 End Logging
+tools-build-799703: 12/24/12 11:32:10 Begin Logging
+tools-build-799703: 12/24/12 11:32:10 --- VMReportExpectedTicks()
+tools-build-799703: 12/24/12 11:32:10 End Logging
+tools-build-799703: 12/24/12 11:32:10 Begin Logging
+tools-build-799703: 12/24/12 11:32:10 --- VMReportExpectedTicks()
+tools-build-799703: 12/24/12 11:32:10 End Logging
+tools-build-799703: 12/24/12 11:32:10 Begin Logging
+tools-build-799703: 12/24/12 11:32:10 --- VMReportExpectedTicks()
+tools-build-799703: 12/24/12 11:32:10 End Logging
+tools-build-799703: 12/24/12 11:32:10 Begin Logging
+tools-build-799703: 12/24/12 11:32:10 --- VMReportExpectedTicks()
+tools-build-799703: 12/24/12 11:32:10 End Logging
+tools-build-799703: 12/24/12 11:32:10 Begin Logging
+tools-build-799703: 12/24/12 11:32:10 --- VMReportExpectedTicks()
+tools-build-799703: 12/24/12 11:32:10 End Logging
+tools-build-799703: 12/24/12 11:32:10 Begin Logging
+tools-build-799703: 12/24/12 11:32:10 --- VMReportExpectedTicks()
+tools-build-799703: 12/24/12 11:32:10 End Logging
+tools-build-799703: 12/24/12 11:32:10 Begin Logging
+tools-build-799703: 12/24/12 11:32:10 Removing old VMDesched kernel driver
+tools-build-799703: 12/24/12 11:32:10 Inst_UninstallService: Attempting to uninstall service: vmdesched-driver
+tools-build-799703: 12/24/12 11:32:10 Inst_UninstallService: Attempting to stop service to be uninstalled
+tools-build-799703: 12/24/12 11:32:10 Inst_StopService: Attempting to stop service: 'vmdesched-driver' [stop dependents = 0]
+tools-build-799703: 12/24/12 11:32:10 Inst_StopService: Service Manager successfully opened
+tools-build-799703: 12/24/12 11:32:10 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-799703: 12/24/12 11:32:10 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-799703: 12/24/12 11:32:10 Inst_UninstallService: Service Manager successfully opened
+tools-build-799703: 12/24/12 11:32:10 Inst_UninstallService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-799703: 12/24/12 11:32:10 VMDesch uninstalled
+tools-build-799703: 12/24/12 11:32:10 End Logging
+tools-build-799703: 12/24/12 11:32:10 Begin Logging
+tools-build-799703: 12/24/12 11:32:10 --- VMEtcHostsCleanup() : Cleaning up the 'etc\hosts' file.
+tools-build-799703: 12/24/12 11:32:10 Found "C:\Windows\system32\Drivers\etc\hosts"
+tools-build-799703: 12/24/12 11:32:10 Found "C:\Windows\system32\Drivers\etc\hosts"
+tools-build-799703: 12/24/12 11:32:10 Searching for "127.0.0.1       .host" in file "C:\Windows\system32\Drivers\etc\hosts"
+tools-build-799703: 12/24/12 11:32:10 Nothing to remove. '127.0.0.1       .host' mapping not present in [C:\Windows\system32\Drivers\etc\hosts].
+tools-build-799703: 12/24/12 11:32:10 End Logging
+tools-build-799703: 12/24/12 11:32:11 Begin Logging
+tools-build-799703: 12/24/12 11:32:11 --- VMInstallThinPrint() : Install ThinPrint
+tools-build-799703: 12/24/12 11:32:11 Getting Property CustomActionData = COM1;VMwareVirtualPrinter;C:\Program Files\VMware\VMware Tools\;C:\Program Files\Common Files\VMware\Drivers\Virtual Printer\;;5
+tools-build-799703: 12/24/12 11:32:11 From CustomActionData:
+tools-build-799703: 12/24/12 11:32:11    tpPort = "COM1"
+tools-build-799703: 12/24/12 11:32:11    tpTemplateName = "VMwareVirtualPrinter"
+tools-build-799703: 12/24/12 11:32:11    installDir = "C:\Program Files\VMware\VMware Tools\"
+tools-build-799703: 12/24/12 11:32:11    driverDir = "C:\Program Files\Common Files\VMware\Drivers\Virtual Printer\"
+tools-build-799703: 12/24/12 11:32:11    serviceState = ""
+tools-build-799703: 12/24/12 11:32:11    uiLevel = 5
+tools-build-799703: 12/24/12 11:32:11 Failed to open printer "_#VMwareVirtualPrinter", error 1801
+tools-build-799703: 12/24/12 11:32:11 Printer does not exist, just continue.
+tools-build-799703: 12/24/12 11:32:11 Inst_StopService: Attempting to stop service: 'spooler' [stop dependents = 1]
+tools-build-799703: 12/24/12 11:32:11 Inst_StopService: Service Manager successfully opened
+tools-build-799703: 12/24/12 11:32:11 Inst_StopService: Service successfully opened
+tools-build-799703: 12/24/12 11:32:11 Inst_StopService: service status: SERVICE_RUNNING cp=0x00000000
+tools-build-799703: 12/24/12 11:32:11 Inst_StopService: Stopping dependents, if any
+tools-build-799703: 12/24/12 11:32:11 Inst_StopService: No dependents exist
+tools-build-799703: 12/24/12 11:32:11 Inst_StopService: Successfully sent stop command
+tools-build-799703: 12/24/12 11:32:11 Inst_StopService: service status: SERVICE_STOPPED cp=0x00000000
+tools-build-799703: 12/24/12 11:32:11 Inst_StopService: Service is stopped
+tools-build-799703: 12/24/12 11:32:11 Inst_StartService: Attempting to start service: spooler
+tools-build-799703: 12/24/12 11:32:11 Inst_StartService: Service Manager successfully opened
+tools-build-799703: 12/24/12 11:32:11 Inst_StartService: Service successfully opened
+tools-build-799703: 12/24/12 11:32:11 Inst_StartService: Service has been started
+tools-build-799703: 12/24/12 11:32:11 Inst_StartService: service status: SERVICE_START_PENDING cp=0x00000000
+tools-build-799703: 12/24/12 11:32:11 Inst_StartService: service status: SERVICE_START_PENDING cp=0x00000002
+tools-build-799703: 12/24/12 11:32:11 Inst_StartService: Updating sleep hint: 20000
+tools-build-799703: 12/24/12 11:32:12 Inst_StartService: service status: SERVICE_START_PENDING cp=0x00000002
+tools-build-799703: 12/24/12 11:32:12 Inst_StartService: service status: SERVICE_START_PENDING cp=0x00000002
+tools-build-799703: 12/24/12 11:32:13 Inst_StartService: service status: SERVICE_START_PENDING cp=0x00000002
+tools-build-799703: 12/24/12 11:32:13 Inst_StartService: service status: SERVICE_START_PENDING cp=0x00000002
+tools-build-799703: 12/24/12 11:32:14 Inst_StartService: service status: SERVICE_RUNNING cp=0x00000000
+tools-build-799703: 12/24/12 11:32:14 Inst_StartService: Service is running
+tools-build-799703: 12/24/12 11:32:14 Attempting to launch "rundll32 tpvmmon.dll,InstHelper install -q"
+tools-build-799703: 12/24/12 11:32:14 Child exited with code 0
+tools-build-799703: 12/24/12 11:32:14 Process returned 0
+tools-build-799703: 12/24/12 11:32:14 Installing driver 1 of 2: TP Output Gateway
+tools-build-799703: 12/24/12 11:32:14 Attempting to launch "printui.exe /ia /f "C:\Program Files\Common Files\VMware\Drivers\Virtual Printer\TPOG3\OEMPRINT.INF" /r "TPVM:" /m "TP Output Gateway" /Y /K /h2"
+tools-build-799703: 12/24/12 11:32:16 Child exited with code 0
+tools-build-799703: 12/24/12 11:32:16 Process returned 0
+tools-build-799703: 12/24/12 11:32:16 Installing driver 2 of 2: TP Output Gateway PS
+tools-build-799703: 12/24/12 11:32:16 Attempting to launch "printui.exe /ia /f "C:\Program Files\Common Files\VMware\Drivers\Virtual Printer\TPOGPS\OEMPRINT.INF" /r "TPVM:" /m "TP Output Gateway PS" /Y /K /h2"
+tools-build-799703: 12/24/12 11:32:17 Child exited with code 0
+tools-build-799703: 12/24/12 11:32:17 Process returned 0
+tools-build-799703: 12/24/12 11:32:17 Installing service 1 of 2: TPAutoConnSvc
+tools-build-799703: 12/24/12 11:32:17 Inst_QueryServiceRunningStatus: Attempting to query service: TPAutoConnSvc
+tools-build-799703: 12/24/12 11:32:17 Inst_QueryServiceRunningStatus: Service Manager successfully opened
+tools-build-799703: 12/24/12 11:32:17 Inst_QueryServiceRunningStatus: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-799703: 12/24/12 11:32:17 TPAutoConnSvc service not installed: 33824
+tools-build-799703: 12/24/12 11:32:17 Attempting to launch ""C:\Program Files\VMware\VMware Tools\TPAutoConnSvc.exe" -q -install"
+tools-build-799703: 12/24/12 11:32:18 Child exited with code 0
+tools-build-799703: 12/24/12 11:32:18 Process returned 0
+tools-build-799703: 12/24/12 11:32:18 TPAutoConnSvc set for manual start.
+tools-build-799703: 12/24/12 11:32:18 Installing service 2 of 2: TPVCGateway
+tools-build-799703: 12/24/12 11:32:18 Inst_QueryServiceRunningStatus: Attempting to query service: TPVCGateway
+tools-build-799703: 12/24/12 11:32:18 Inst_QueryServiceRunningStatus: Service Manager successfully opened
+tools-build-799703: 12/24/12 11:32:18 Inst_QueryServiceRunningStatus: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-799703: 12/24/12 11:32:18 TPVCGateway service not installed: 33824
+tools-build-799703: 12/24/12 11:32:18 Attempting to launch ""C:\Program Files\VMware\VMware Tools\TPVCGateway.exe" -q -install"
+tools-build-799703: 12/24/12 11:32:18 Child exited with code 0
+tools-build-799703: 12/24/12 11:32:18 Process returned 0
+tools-build-799703: 12/24/12 11:32:18 TPVCGateway set for manual start.
+tools-build-799703: 12/24/12 11:32:18 End Logging
+tools-build-774885: 12/24/12 11:32:18 Begin Logging
+tools-build-774885: 12/24/12 11:32:18 --- VMInstallVMCIDriver() : Installing VMCI driver
+tools-build-774885: 12/24/12 11:32:18 Getting Property CustomActionData = C:\Program Files\Common Files\VMware\Drivers\vmci\device\;5;C:\Program Files\Common Files\VMware\Drivers\vmci\sockets\bin\win32\vsocklib.dll;C:\Program Files\Common Files\VMware\Drivers\vmci\sockets\bin\win64\vsocklib.dll;C:\Program Files\Common Files\VMware\Drivers\vmci\device\vsock.sys;vSockets Driver;vSockets Driver
+tools-build-774885: 12/24/12 11:32:18 ReadWriteDriverVersionInfo did not find info for vmci driver
+inst-build-774885 : 12/24/12 11:32:18 I1:DInfo_GetDriverInfoFromInf: Got provider for inf: VMware, Inc.
+inst-build-774885 : 12/24/12 11:32:18 I1:DInfo_GetDriverInfoFromInf: verified inf C:\Program Files\Common Files\VMware\Drivers\vmci\device\vmci.inf signed by Microsoft
+tools-build-774885: 12/24/12 11:32:18 File versions don't match
+tools-build-774885: 12/24/12 11:32:18 Driver file versions don't match
+tools-build-774885: 12/24/12 11:32:18 Determined that vmci has changed
+tools-build-774885: 12/24/12 11:32:18 existing vmci info:
+tools-build-774885: 12/24/12 11:32:18 Driver version 0.0.0.0 is not WHQL (ca ver 0) inf ""
+tools-build-774885: 12/24/12 11:32:18 current vmci info:
+tools-build-774885: 12/24/12 11:32:18 Driver version 9.3.51.0 is WHQL (ca ver 1) inf ""
+tools-build-774885: 12/24/12 11:32:18 ReadWriteDriverVersionInfo did not find info for vsockDll driver
+tools-build-774885: 12/24/12 11:32:18 File versions don't match
+tools-build-774885: 12/24/12 11:32:18 Determined that vsock dll has changed
+tools-build-774885: 12/24/12 11:32:18 existing vsock dll info:
+tools-build-774885: 12/24/12 11:32:18 Driver version 0.0.0.0 is not WHQL (ca ver 0) inf ""
+tools-build-774885: 12/24/12 11:32:18 current vsock dll info:
+tools-build-774885: 12/24/12 11:32:18 Driver version 9.3.4.0 is not WHQL (ca ver 1) inf ""
+tools-build-774885: 12/24/12 11:32:18 ReadWriteDriverVersionInfo did not find info for vsockSys driver
+tools-build-774885: 12/24/12 11:32:18 File versions don't match
+tools-build-774885: 12/24/12 11:32:18 Determined that vsock driver has changed
+tools-build-774885: 12/24/12 11:32:18 existing vsock driver info:
+tools-build-774885: 12/24/12 11:32:18 Driver version 0.0.0.0 is not WHQL (ca ver 0) inf ""
+tools-build-774885: 12/24/12 11:32:18 current vsock driver info:
+tools-build-774885: 12/24/12 11:32:18 Driver version 9.3.35.0 is not WHQL (ca ver 1) inf ""
+tools-build-774885: 12/24/12 11:32:18 UninstallVsockDll: Failed to deregister native vsock provider, assuming not installed.
+tools-build-774885: 12/24/12 11:32:18 UninstallVsockDriver: Failed to open vsock driver to issue stop, likely doesn't exist
+tools-build-774885: 12/24/12 11:32:18 Inst_StopService: Attempting to stop service: 'vsock' [stop dependents = 0]
+tools-build-774885: 12/24/12 11:32:18 Inst_StopService: Service Manager successfully opened
+tools-build-774885: 12/24/12 11:32:18 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-774885: 12/24/12 11:32:18 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-774885: 12/24/12 11:32:18 UninstallVsockDriver: Stopped vsock service
+tools-build-774885: 12/24/12 11:32:18 UninstallVsockDriver: Failed to open vsock driver to issue stop, likely doesn't exist
+tools-build-774885: 12/24/12 11:32:18 Inst_StopService: Attempting to stop service: 'vsock' [stop dependents = 0]
+tools-build-774885: 12/24/12 11:32:18 Inst_StopService: Service Manager successfully opened
+tools-build-774885: 12/24/12 11:32:18 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-774885: 12/24/12 11:32:18 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-774885: 12/24/12 11:32:18 UninstallVsockDriver: Stopped vsock service
+tools-build-774885: 12/24/12 11:32:18 Inst_UninstallService: Attempting to uninstall service: vsock
+tools-build-774885: 12/24/12 11:32:18 Inst_UninstallService: Attempting to stop service to be uninstalled
+tools-build-774885: 12/24/12 11:32:18 Inst_StopService: Attempting to stop service: 'vsock' [stop dependents = 0]
+tools-build-774885: 12/24/12 11:32:18 Inst_StopService: Service Manager successfully opened
+tools-build-774885: 12/24/12 11:32:18 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-774885: 12/24/12 11:32:18 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-774885: 12/24/12 11:32:18 Inst_UninstallService: Service Manager successfully opened
+tools-build-774885: 12/24/12 11:32:18 Inst_UninstallService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-774885: 12/24/12 11:32:18 UninstallVsockDriver: Uninstalled vsock service
+tools-build-774885: 12/24/12 11:32:18 UninstallVmciHostDevice: Driver registry key doesn't exist
+tools-build-774885: 12/24/12 11:32:21 Cannot query key value HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\Wnd: 2
+tools-build-774885: 12/24/12 11:32:21 Installing driver with INF: "C:\Program Files\Common Files\VMware\Drivers\vmci\device\vmci.inf", flags: 1
+tools-build-774885: 12/24/12 11:32:21 Inf file C:\Program Files\Common Files\VMware\Drivers\vmci\device\vmci.inf was installed as oem29.inf (full path C:\Windows\INF\oem29.inf)
+tools-build-774885: 12/24/12 11:32:21 Attempting to install HID1: PCI\VEN_15AD&DEV_0740&SUBSYS_074015AD
+tools-build-774885: 12/24/12 11:32:21 Success: Reboot not required
+inst-build-774885 : 12/24/12 11:32:21 I1:DriverMgmt_CreateNonPnpDevice: Created device with instance ID ROOT\VMWVMCIHOSTDEV\0000
+tools-build-774885: 12/24/12 11:32:21 InstallVmciHostDevice: Created vmci host device: ROOT\VMWVMCIHOSTDEV\0000
+tools-build-774885: 12/24/12 11:32:21 InstallVmciHostDevice: Set vmci driver registry key
+tools-build-774885: 12/24/12 11:32:21 Cannot query key value HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\Wnd: 2
+tools-build-774885: 12/24/12 11:32:21 Installing driver with INF: "C:\Program Files\Common Files\VMware\Drivers\vmci\device\vmci.inf", flags: 1
+tools-build-774885: 12/24/12 11:32:21 Inf file C:\Program Files\Common Files\VMware\Drivers\vmci\device\vmci.inf was installed as oem29.inf (full path C:\Windows\INF\oem29.inf)
+tools-build-774885: 12/24/12 11:32:21 Attempting to install HID1: ROOT\VMWVMCIHOSTDEV
+tools-build-774885: 12/24/12 11:32:22 Success: Reboot not required
+tools-build-774885: 12/24/12 11:32:22 Inst_StopService: Attempting to stop service: 'vsock' [stop dependents = 0]
+tools-build-774885: 12/24/12 11:32:22 Inst_StopService: Service Manager successfully opened
+tools-build-774885: 12/24/12 11:32:22 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-774885: 12/24/12 11:32:22 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-774885: 12/24/12 11:32:22 CopyFileRobust: copied from C:\Program Files\Common Files\VMware\Drivers\vmci\device\vsock.sys to C:\Windows\system32\drivers\vsock.sys
+tools-build-774885: 12/24/12 11:32:22 Inst_InstallService: Stopping any pre-existing instances of service
+tools-build-774885: 12/24/12 11:32:22 Inst_StopService: Attempting to stop service: 'vsock' [stop dependents = 1]
+tools-build-774885: 12/24/12 11:32:22 Inst_StopService: Service Manager successfully opened
+tools-build-774885: 12/24/12 11:32:22 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-774885: 12/24/12 11:32:22 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-774885: 12/24/12 11:32:22 Inst_InstallService: installing service: vsock
+tools-build-774885: 12/24/12 11:32:22 Inst_InstallService: service manager opened
+tools-build-774885: 12/24/12 11:32:22 Inst_InstallService: service manager successfully opened
+tools-build-774885: 12/24/12 11:32:22 Dependencies wide char 
+tools-build-774885: 12/24/12 11:32:22 Inst_InstallService: Service created: vsock
+tools-build-774885: 12/24/12 11:32:22 Inst_InstallService: Attempting to store service description
+tools-build-774885: 12/24/12 11:32:22 Inst_InstallService: advapi32.dll loaded
+tools-build-774885: 12/24/12 11:32:22 Inst_InstallService: config function loaded
+tools-build-774885: 12/24/12 11:32:22 Inst_InstallService: Description config successful
+tools-build-774885: 12/24/12 11:32:22 Inst_InstallService: returning success
+tools-build-774885: 12/24/12 11:32:22 InstallVsockDriver: Created vsock driver service
+tools-build-774885: 12/24/12 11:32:22 Inst_StartService: Attempting to start service: vsock
+tools-build-774885: 12/24/12 11:32:22 Inst_StartService: Service Manager successfully opened
+tools-build-774885: 12/24/12 11:32:22 Inst_StartService: Service successfully opened
+tools-build-774885: 12/24/12 11:32:22 Inst_StartService: Service has been started
+tools-build-774885: 12/24/12 11:32:22 Inst_StartService: service status: SERVICE_RUNNING cp=0x00000000
+tools-build-774885: 12/24/12 11:32:22 Inst_StartService: Service is running
+tools-build-774885: 12/24/12 11:32:22 CopyFileRobust: copied from C:\Program Files\Common Files\VMware\Drivers\vmci\sockets\bin\win32\vsocklib.dll to C:\Windows\system32\vsocklib.dll
+tools-build-774885: 12/24/12 11:32:22 InstallVsockDll: copied 32-bit C:\Program Files\Common Files\VMware\Drivers\vmci\sockets\bin\win32\vsocklib.dll
+tools-build-774885: 12/24/12 11:32:22 InstallVsockDll: Registered vsock provider
+tools-build-774885: 12/24/12 11:32:22 End Logging
+tools-build-799703: 12/24/12 11:32:22 Begin Logging
+tools-build-799703: 12/24/12 11:32:22 --- VMInstallAudioDriver() : Installing the audio driver
+tools-build-799703: 12/24/12 11:32:22 Getting Property CustomActionData = C:\Program Files\Common Files\VMware\Drivers\audio\;5
+tools-build-799703: 12/24/12 11:32:22 ReadWriteDriverVersionInfo did not find info for es1371 driver
+inst-build-799703 : 12/24/12 11:32:22 I1:DInfo_GetDriverInfoFromInf: Got provider for inf: VMware
+inst-build-799703 : 12/24/12 11:32:22 I1:DInfo_GetDriverInfoFromInf: verified inf C:\Program Files\Common Files\VMware\Drivers\audio\vmaudio.inf signed by Microsoft
+tools-build-799703: 12/24/12 11:32:22 File versions don't match
+tools-build-799703: 12/24/12 11:32:22 Driver file versions don't match
+tools-build-799703: 12/24/12 11:32:22 Determined that vmaudio has changed
+tools-build-799703: 12/24/12 11:32:22 existing vmaudio info:
+tools-build-799703: 12/24/12 11:32:22 Driver version 0.0.0.0 is not WHQL (ca ver 0) inf ""
+tools-build-799703: 12/24/12 11:32:22 current vmaudio info:
+tools-build-799703: 12/24/12 11:32:22 Driver version 5.10.0.3506 is WHQL (ca ver 1) inf ""
+tools-build-799703: 12/24/12 11:32:22 Cannot query key value HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\Wnd: 2
+tools-build-799703: 12/24/12 11:32:22 Installing driver with INF: "C:\Program Files\Common Files\VMware\Drivers\audio\vmaudio.inf", flags: 1
+tools-build-799703: 12/24/12 11:32:23 Inf file C:\Program Files\Common Files\VMware\Drivers\audio\vmaudio.inf was installed as oem30.inf (full path C:\Windows\INF\oem30.inf)
+tools-build-799703: 12/24/12 11:32:23 Attempting to install HID1: PCI\VEN_1274&DEV_1371&SUBSYS_13711274
+tools-build-799703: 12/24/12 11:32:23 HID1 install status: 0xe000020b. The device instance does not exist in the hardware tree.
+tools-build-799703: 12/24/12 11:32:23 No devices found.  inf C:\Program Files\Common Files\VMware\Drivers\audio\vmaudio.inf has already been installed
+tools-build-799703: 12/24/12 11:32:23 Success: Reboot not required
+tools-build-799703: 12/24/12 11:32:23 End Logging
+instUtils-build-799703: 12/24/12 11:32:23 Begin Logging
+instUtils-build-799703: 12/24/12 11:32:23 --- VMInstallKernelDriver()
+instUtils-build-799703: 12/24/12 11:32:23 Getting Property CustomActionData = vmrawdsk;VMware Vista Physical Disk Helper;VMware Vista Physical Disk Helper;C:\Program Files\VMware\VMware Tools\vmrawdsk.sys;1;0;1;Base
+instUtils-build-799703: 12/24/12 11:32:23 Installing vmrawdsk
+instUtils-build-799703: 12/24/12 11:32:23 Inst_InstallService: Stopping any pre-existing instances of service
+instUtils-build-799703: 12/24/12 11:32:23 Inst_StopService: Attempting to stop service: 'vmrawdsk' [stop dependents = 1]
+instUtils-build-799703: 12/24/12 11:32:23 Inst_StopService: Service Manager successfully opened
+instUtils-build-799703: 12/24/12 11:32:23 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+instUtils-build-799703: 12/24/12 11:32:23 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+instUtils-build-799703: 12/24/12 11:32:23 Inst_InstallService: installing service: vmrawdsk
+instUtils-build-799703: 12/24/12 11:32:23 Inst_InstallService: service manager opened
+instUtils-build-799703: 12/24/12 11:32:23 Inst_InstallService: service manager successfully opened
+instUtils-build-799703: 12/24/12 11:32:23 Dependencies wide char 
+instUtils-build-799703: 12/24/12 11:32:23 Inst_InstallService: Service created: vmrawdsk
+instUtils-build-799703: 12/24/12 11:32:23 Inst_InstallService: Attempting to store service description
+instUtils-build-799703: 12/24/12 11:32:23 Inst_InstallService: advapi32.dll loaded
+instUtils-build-799703: 12/24/12 11:32:23 Inst_InstallService: config function loaded
+instUtils-build-799703: 12/24/12 11:32:23 Inst_InstallService: Description config successful
+instUtils-build-799703: 12/24/12 11:32:23 Inst_InstallService: returning success
+instUtils-build-799703: 12/24/12 11:32:23 Inst_StartService: Attempting to start service: vmrawdsk
+instUtils-build-799703: 12/24/12 11:32:23 Inst_StartService: Service Manager successfully opened
+instUtils-build-799703: 12/24/12 11:32:23 Inst_StartService: Service successfully opened
+instUtils-build-799703: 12/24/12 11:32:23 Inst_StartService: Service has been started
+instUtils-build-799703: 12/24/12 11:32:23 Inst_StartService: service status: SERVICE_RUNNING cp=0x00000000
+instUtils-build-799703: 12/24/12 11:32:23 Inst_StartService: Service is running
+instUtils-build-799703: 12/24/12 11:32:23 End Logging
+tools-build-799703: 12/24/12 11:32:23 Begin Logging
+tools-build-799703: 12/24/12 11:32:23 --- VMInstallHgfsDriver() : Installing the WinNT vmhgfs driver
+tools-build-799703: 12/24/12 11:32:23 Getting Property CustomActionData = C:\Program Files\VMware\VMware Tools\Drivers\hgfs\;VMware Host Guest Client Redirector;Implements the VMware HGFS protocol. This protocol provides connectivity to host files provided by the HGFS server.
+tools-build-799703: 12/24/12 11:32:23 CopyFileRobust: copied from C:\Program Files\VMware\VMware Tools\Drivers\hgfs\\vmhgfs.sys to C:\Windows\system32\drivers\vmhgfs.sys
+tools-build-799703: 12/24/12 11:32:23 Util_GetKeyValueString(HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\NetworkProvider\Order\ProviderOrder) = "RDPNP,LanmanWorkstation"
+tools-build-799703: 12/24/12 11:32:23 CopyFileRobust: copied from C:\Program Files\VMware\VMware Tools\Drivers\hgfs\\vmhgfs.dll to C:\Windows\system32\vmhgfs.dll
+tools-build-799703: 12/24/12 11:32:23 Inst_QueryServiceRunningStatus: Attempting to query service: vmhgfs
+tools-build-799703: 12/24/12 11:32:23 Inst_QueryServiceRunningStatus: Service Manager successfully opened
+tools-build-799703: 12/24/12 11:32:23 Inst_QueryServiceRunningStatus: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-799703: 12/24/12 11:32:23 Inst_InstallService: Not stopping any pre-existing instances of service by request
+tools-build-799703: 12/24/12 11:32:23 Inst_InstallService: installing service: vmhgfs
+tools-build-799703: 12/24/12 11:32:23 Inst_InstallService: service manager opened
+tools-build-799703: 12/24/12 11:32:23 Inst_InstallService: service manager successfully opened
+tools-build-799703: 12/24/12 11:32:23 Dependencies wide char Mup
+tools-build-799703: 12/24/12 11:32:23 Inst_InstallService: Service created: vmhgfs
+tools-build-799703: 12/24/12 11:32:23 Inst_InstallService: Attempting to store service description
+tools-build-799703: 12/24/12 11:32:23 Inst_InstallService: advapi32.dll loaded
+tools-build-799703: 12/24/12 11:32:23 Inst_InstallService: config function loaded
+tools-build-799703: 12/24/12 11:32:23 Inst_InstallService: Description config successful
+tools-build-799703: 12/24/12 11:32:23 Inst_InstallService: returning success
+tools-build-799703: 12/24/12 11:32:23 Inst_StartService: Attempting to start service: vmhgfs
+tools-build-799703: 12/24/12 11:32:23 Inst_StartService: Service Manager successfully opened
+tools-build-799703: 12/24/12 11:32:23 Inst_StartService: Service successfully opened
+tools-build-799703: 12/24/12 11:32:23 Inst_StartService: Service has been started
+tools-build-799703: 12/24/12 11:32:23 Inst_StartService: service status: SERVICE_RUNNING cp=0x00000000
+tools-build-799703: 12/24/12 11:32:23 Inst_StartService: Service is running
+tools-build-799703: 12/24/12 11:32:23 vmhgfs service started. Reboot flag is 0
+tools-build-799703: 12/24/12 11:32:23 Reboot needed by [vmhgfs]
+tools-build-799703: 12/24/12 11:32:23   List of components [vmhgfs]
+tools-build-799703: 12/24/12 11:32:23 Reboot requested by vmhgfs
+inst-build-799703 : 12/24/12 11:32:23 E1:WinRegGetSZInt: A Windows registry operation failed: Failed to open key. key path: S-1-5-18\Software\VMware, Inc.\VMware Tools\Hgfs Usability\MRU RootShare, value name: 
+
+tools-build-799703: 12/24/12 11:32:23 PerProfileUpgradeCb: About to upgrade shell redirection values stored at: S-1-5-18\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+
+tools-build-799703: 12/24/12 11:32:23 PerProfileUpgradeCb: About to upgrade mapped drive values stored at: S-1-5-18\Network
+
+inst-build-799703 : 12/24/12 11:32:23 E1:WinReg_EnumerateSubkeys: A Windows registry operation failed: 2. key path: S-1-5-18\Network
+
+inst-build-799703 : 12/24/12 11:32:23 E1:WinRegGetSZInt: A Windows registry operation failed: Failed to open key. key path: S-1-5-19\Software\VMware, Inc.\VMware Tools\Hgfs Usability\MRU RootShare, value name: 
+
+tools-build-799703: 12/24/12 11:32:23 PerProfileUpgradeCb: About to upgrade shell redirection values stored at: S-1-5-19\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+
+tools-build-799703: 12/24/12 11:32:23 PerProfileUpgradeCb: About to upgrade mapped drive values stored at: S-1-5-19\Network
+
+inst-build-799703 : 12/24/12 11:32:23 E1:WinReg_EnumerateSubkeys: A Windows registry operation failed: 50. key path: S-1-5-19\Network
+
+inst-build-799703 : 12/24/12 11:32:23 E1:WinRegGetSZInt: A Windows registry operation failed: Failed to open key. key path: S-1-5-20\Software\VMware, Inc.\VMware Tools\Hgfs Usability\MRU RootShare, value name: 
+
+tools-build-799703: 12/24/12 11:32:23 PerProfileUpgradeCb: About to upgrade shell redirection values stored at: S-1-5-20\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+
+tools-build-799703: 12/24/12 11:32:23 PerProfileUpgradeCb: About to upgrade mapped drive values stored at: S-1-5-20\Network
+
+inst-build-799703 : 12/24/12 11:32:23 E1:WinReg_EnumerateSubkeys: A Windows registry operation failed: 50. key path: S-1-5-20\Network
+
+inst-build-799703 : 12/24/12 11:32:23 E1:WinRegGetSZInt: A Windows registry operation failed: Failed to open key. key path: S-1-5-21-2236972069-1855169937-842477362-1000\Software\VMware, Inc.\VMware Tools\Hgfs Usability\MRU RootShare, value name: 
+
+tools-build-799703: 12/24/12 11:32:23 PerProfileUpgradeCb: About to upgrade shell redirection values stored at: S-1-5-21-2236972069-1855169937-842477362-1000\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+
+tools-build-799703: 12/24/12 11:32:23 PerProfileUpgradeCb: About to upgrade mapped drive values stored at: S-1-5-21-2236972069-1855169937-842477362-1000\Network
+
+inst-build-799703 : 12/24/12 11:32:23 E1:WinReg_EnumerateSubkeys: A Windows registry operation failed: 50. key path: S-1-5-21-2236972069-1855169937-842477362-1000\Network
+
+tools-build-799703: 12/24/12 11:32:23 End Logging
+tools-build-799703: 12/24/12 11:32:23 Begin Logging
+tools-build-799703: 12/24/12 11:32:23 --- VMInstallVMXNet3Driver() : Installing the vmxnet3 driver
+tools-build-799703: 12/24/12 11:32:23 Getting Property CustomActionData = C:\Program Files\Common Files\VMware\Drivers\vmxnet3\vmxnet3ndis6.inf;5
+tools-build-799703: 12/24/12 11:32:23 ReadWriteDriverVersionInfo did not find info for vmxnet3ndis6 driver
+inst-build-799703 : 12/24/12 11:32:23 I1:DInfo_GetDriverInfoFromInf: Got provider for inf: VMware, Inc.
+inst-build-799703 : 12/24/12 11:32:23 I1:DInfo_GetDriverInfoFromInf: verified inf C:\Program Files\Common Files\VMware\Drivers\vmxnet3\vmxnet3ndis6.inf signed by Microsoft
+tools-build-799703: 12/24/12 11:32:23 File versions don't match
+tools-build-799703: 12/24/12 11:32:23 Driver file versions don't match
+tools-build-799703: 12/24/12 11:32:23 Determined that vmxnet3ndis6 has changed
+tools-build-799703: 12/24/12 11:32:23 existing vmxnet3ndis6 info:
+tools-build-799703: 12/24/12 11:32:23 Driver version 0.0.0.0 is not WHQL (ca ver 0) inf ""
+tools-build-799703: 12/24/12 11:32:23 current vmxnet3ndis6 info:
+tools-build-799703: 12/24/12 11:32:23 Driver version 1.3.9.0 is WHQL (ca ver 1) inf ""
+tools-build-799703: 12/24/12 11:32:23 Cannot query key value HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\Wnd: 2
+tools-build-799703: 12/24/12 11:32:23 Installing driver with INF: "C:\Program Files\Common Files\VMware\Drivers\vmxnet3\vmxnet3ndis6.inf", flags: 1
+tools-build-799703: 12/24/12 11:32:24 Inf file C:\Program Files\Common Files\VMware\Drivers\vmxnet3\vmxnet3ndis6.inf was installed as oem31.inf (full path C:\Windows\INF\oem31.inf)
+tools-build-799703: 12/24/12 11:32:24 Attempting to install HID1: PCI\VEN_15AD&DEV_07B0&SUBSYS_07B015AD
+tools-build-799703: 12/24/12 11:32:24 HID1 install status: 0xe000020b. The device instance does not exist in the hardware tree.
+tools-build-799703: 12/24/12 11:32:24 No devices found.  inf C:\Program Files\Common Files\VMware\Drivers\vmxnet3\vmxnet3ndis6.inf has already been installed
+tools-build-799703: 12/24/12 11:32:24 Success: Reboot not required
+tools-build-799703: 12/24/12 11:32:24 End Logging
+instUtils-build-799703: 12/24/12 11:32:24 Begin Logging
+instUtils-build-799703: 12/24/12 11:32:24 --- VMInstallKernelDriver()
+instUtils-build-799703: 12/24/12 11:32:24 Getting Property CustomActionData = VMMEMCTL;Memory Control Driver;Driver to provide enhanced memory management of this virtual machine.;C:\Program Files\Common Files\VMware\Drivers\memctl\vmmemctl.sys;2;0;1;Extended Base
+instUtils-build-799703: 12/24/12 11:32:24 Installing VMMEMCTL
+instUtils-build-799703: 12/24/12 11:32:24 Inst_InstallService: Stopping any pre-existing instances of service
+instUtils-build-799703: 12/24/12 11:32:24 Inst_StopService: Attempting to stop service: 'VMMEMCTL' [stop dependents = 1]
+instUtils-build-799703: 12/24/12 11:32:24 Inst_StopService: Service Manager successfully opened
+instUtils-build-799703: 12/24/12 11:32:24 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+instUtils-build-799703: 12/24/12 11:32:24 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+instUtils-build-799703: 12/24/12 11:32:24 Inst_InstallService: installing service: VMMEMCTL
+instUtils-build-799703: 12/24/12 11:32:24 Inst_InstallService: service manager opened
+instUtils-build-799703: 12/24/12 11:32:24 Inst_InstallService: service manager successfully opened
+instUtils-build-799703: 12/24/12 11:32:24 Dependencies wide char 
+instUtils-build-799703: 12/24/12 11:32:24 Inst_InstallService: Service created: VMMEMCTL
+instUtils-build-799703: 12/24/12 11:32:24 Inst_InstallService: Attempting to store service description
+instUtils-build-799703: 12/24/12 11:32:24 Inst_InstallService: advapi32.dll loaded
+instUtils-build-799703: 12/24/12 11:32:24 Inst_InstallService: config function loaded
+instUtils-build-799703: 12/24/12 11:32:24 Inst_InstallService: Description config successful
+instUtils-build-799703: 12/24/12 11:32:24 Inst_InstallService: returning success
+instUtils-build-799703: 12/24/12 11:32:24 Inst_StartService: Attempting to start service: VMMEMCTL
+instUtils-build-799703: 12/24/12 11:32:24 Inst_StartService: Service Manager successfully opened
+instUtils-build-799703: 12/24/12 11:32:24 Inst_StartService: Service successfully opened
+instUtils-build-799703: 12/24/12 11:32:24 Inst_StartService: Service has been started
+instUtils-build-799703: 12/24/12 11:32:24 Inst_StartService: service status: SERVICE_RUNNING cp=0x00000000
+instUtils-build-799703: 12/24/12 11:32:24 Inst_StartService: Service is running
+instUtils-build-799703: 12/24/12 11:32:24 End Logging
+tools-build-799703: 12/24/12 11:32:24 Begin Logging
+tools-build-799703: 12/24/12 11:32:24 --- VMInstallPS2MouseDriver() : Installing the ps2 mouse driver
+tools-build-799703: 12/24/12 11:32:24 Getting Property CustomActionData = C:\Program Files\Common Files\VMware\Drivers\mouse\;5
+tools-build-799703: 12/24/12 11:32:24 --- VMInstallMouseDriverCommon() : Installing the vmmouse mouse driver
+tools-build-799703: 12/24/12 11:32:24 ReadWriteDriverVersionInfo did not find info for vmmouse driver
+inst-build-799703 : 12/24/12 11:32:24 I1:DInfo_GetDriverInfoFromInf: Got provider for inf: VMware, Inc.
+inst-build-799703 : 12/24/12 11:32:24 I1:DInfo_GetDriverInfoFromInf: verified inf C:\Program Files\Common Files\VMware\Drivers\mouse\vmmouse.inf signed by Microsoft
+tools-build-799703: 12/24/12 11:32:24 File versions don't match
+tools-build-799703: 12/24/12 11:32:24 Driver file versions don't match
+tools-build-799703: 12/24/12 11:32:24 Determined that  has vchanged
+tools-build-799703: 12/24/12 11:32:24 existing vmmouse mouse info:
+tools-build-799703: 12/24/12 11:32:24 Driver version 0.0.0.0 is not WHQL (ca ver 0) inf ""
+tools-build-799703: 12/24/12 11:32:24 current vmmouse mouse info:
+tools-build-799703: 12/24/12 11:32:24 Driver version 12.5.2.0 is WHQL (ca ver 1) inf ""
+tools-build-799703: 12/24/12 11:32:24 Cannot query key value HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\Wnd: 2
+tools-build-799703: 12/24/12 11:32:24 Installing driver with INF: "C:\Program Files\Common Files\VMware\Drivers\mouse\vmmouse.inf", flags: 1
+tools-build-799703: 12/24/12 11:32:24 Inf file C:\Program Files\Common Files\VMware\Drivers\mouse\vmmouse.inf was installed as oem32.inf (full path C:\Windows\INF\oem32.inf)
+tools-build-799703: 12/24/12 11:32:24 Attempting to install HID1: *PNP0F03
+tools-build-799703: 12/24/12 11:32:24 HID1 install status: 0xe000020b. The device instance does not exist in the hardware tree.
+tools-build-799703: 12/24/12 11:32:24 Attempting to install HID2: *PNP0F13
+tools-build-799703: 12/24/12 11:32:25 Success: Reboot required
+tools-build-799703: 12/24/12 11:32:25 Reboot needed by [ps2MouseInstall]
+tools-build-799703: 12/24/12 11:32:25 Util_GetKeyValueString(HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\NeedReboot\Components) = "vmhgfs"
+tools-build-799703: 12/24/12 11:32:25   List of components [vmhgfs;ps2MouseInstall]
+tools-build-799703: 12/24/12 11:32:25 Reboot requested by ps2MouseInstall
+tools-build-799703: 12/24/12 11:32:25 End Logging
+tools-build-799703: 12/24/12 11:32:25 Begin Logging
+tools-build-799703: 12/24/12 11:32:25 --- VMInstallUSBMouseDriver() : Installing the usb mouse driver
+tools-build-799703: 12/24/12 11:32:25 Getting Property CustomActionData = C:\Program Files\Common Files\VMware\Drivers\mouse\;5
+tools-build-799703: 12/24/12 11:32:25 --- VMInstallMouseDriverCommon() : Installing the vmusbmouse mouse driver
+tools-build-799703: 12/24/12 11:32:25 ReadWriteDriverVersionInfo did not find info for vmusbmouse driver
+inst-build-799703 : 12/24/12 11:32:25 I1:DInfo_GetDriverInfoFromInf: Got provider for inf: VMware, Inc.
+inst-build-799703 : 12/24/12 11:32:25 I1:DInfo_GetDriverInfoFromInf: verified inf C:\Program Files\Common Files\VMware\Drivers\mouse\vmusbmouse.inf signed by Microsoft
+tools-build-799703: 12/24/12 11:32:25 File versions don't match
+tools-build-799703: 12/24/12 11:32:25 Driver file versions don't match
+tools-build-799703: 12/24/12 11:32:25 Determined that  has vchanged
+tools-build-799703: 12/24/12 11:32:25 existing vmusbmouse mouse info:
+tools-build-799703: 12/24/12 11:32:25 Driver version 0.0.0.0 is not WHQL (ca ver 0) inf ""
+tools-build-799703: 12/24/12 11:32:25 current vmusbmouse mouse info:
+tools-build-799703: 12/24/12 11:32:25 Driver version 12.5.2.0 is WHQL (ca ver 1) inf ""
+tools-build-799703: 12/24/12 11:32:25 Cannot query key value HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\Wnd: 2
+tools-build-799703: 12/24/12 11:32:25 Installing driver with INF: "C:\Program Files\Common Files\VMware\Drivers\mouse\vmusbmouse.inf", flags: 1
+tools-build-799703: 12/24/12 11:32:25 Inf file C:\Program Files\Common Files\VMware\Drivers\mouse\vmusbmouse.inf was installed as oem33.inf (full path C:\Windows\INF\oem33.inf)
+tools-build-799703: 12/24/12 11:32:25 Attempting to install HID1: HID\VID_0E0F&PID_0003&MI_00
+tools-build-799703: 12/24/12 11:32:25 Attempting to install HID2: HID\VID_0E0F&PID_0003&MI_01
+tools-build-799703: 12/24/12 11:32:25 Success: Reboot not required
+tools-build-799703: 12/24/12 11:32:25 End Logging
+tools-build-799703: 12/24/12 11:32:26 Begin Logging
+tools-build-799703: 12/24/12 11:32:26 --- VMDisableUSBSelectiveSuspendPwrSettings()
+tools-build-799703: 12/24/12 11:32:26 Cannot query key value HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\Wnd: 2
+tools-build-799703: 12/24/12 11:32:26 Didn't find presence of Intel USB Host Controller
+tools-build-799703: 12/24/12 11:32:26 End Logging
+tools-build-799703: 12/24/12 11:32:26 Begin Logging
+tools-build-799703: 12/24/12 11:32:26 --- VMSetDiskTimeOut() : Setting disk time-out
+tools-build-799703: 12/24/12 11:32:26 End Logging
+tools-build-799703: 12/24/12 11:32:26 Begin Logging
+tools-build-799703: 12/24/12 11:32:26 --- VMInstallVideoDriver() : Installing video driver
+tools-build-799703: 12/24/12 11:32:26 Getting Property CustomActionData = C:\Program Files\Common Files\VMware\Drivers\video_wddm\vm3d.inf;5
+tools-build-799703: 12/24/12 11:32:26 ReadWriteDriverVersionInfo did not find info for svga_wddm driver
+inst-build-799703 : 12/24/12 11:32:26 I1:DInfo_GetDriverInfoFromInf: Got provider for inf: VMware, Inc.
+inst-build-799703 : 12/24/12 11:32:26 I1:DInfo_GetDriverInfoFromInf: verified inf C:\Program Files\Common Files\VMware\Drivers\video_wddm\vm3d.inf signed by Microsoft
+tools-build-799703: 12/24/12 11:32:26 File versions don't match
+tools-build-799703: 12/24/12 11:32:26 Driver file versions don't match
+tools-build-799703: 12/24/12 11:32:26 Determined that svga_wddm has changed
+tools-build-799703: 12/24/12 11:32:26 existing svga_wddm info:
+tools-build-799703: 12/24/12 11:32:26 Driver version 0.0.0.0 is not WHQL (ca ver 0) inf ""
+tools-build-799703: 12/24/12 11:32:26 current svga_wddm info:
+tools-build-799703: 12/24/12 11:32:26 Driver version 7.14.1.1210 is WHQL (ca ver 1) inf ""
+tools-build-799703: 12/24/12 11:32:26 Installing driver
+tools-build-799703: 12/24/12 11:32:26 Cannot query key value HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\Wnd: 2
+tools-build-799703: 12/24/12 11:32:26 Installing driver with INF: "C:\Program Files\Common Files\VMware\Drivers\video_wddm\vm3d.inf", flags: 1
+tools-build-799703: 12/24/12 11:32:26 Inf file C:\Program Files\Common Files\VMware\Drivers\video_wddm\vm3d.inf was installed as oem34.inf (full path C:\Windows\INF\oem34.inf)
+tools-build-799703: 12/24/12 11:32:26 Attempting to install HID1: PCI\VEN_15AD&DEV_0710&SUBSYS_00000000
+tools-build-799703: 12/24/12 11:32:26 HID1 install status: 0xe000020b. The device instance does not exist in the hardware tree.
+tools-build-799703: 12/24/12 11:32:26 Attempting to install HID2: PCI\VEN_15AD&DEV_0405&SUBSYS_00000000
+tools-build-799703: 12/24/12 11:32:26 HID2 install status: 0xe000020b. The device instance does not exist in the hardware tree.
+tools-build-799703: 12/24/12 11:32:26 Attempting to install HID3: PCI\VEN_15AD&DEV_0405&SUBSYS_040515AD
+tools-build-799703: 12/24/12 11:32:27 Success: Reboot required
+tools-build-799703: 12/24/12 11:32:27 Reboot needed by [Display]
+tools-build-799703: 12/24/12 11:32:27 Util_GetKeyValueString(HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\NeedReboot\Components) = "vmhgfs;ps2MouseInstall"
+tools-build-799703: 12/24/12 11:32:27   List of components [vmhgfs;ps2MouseInstall;Display]
+tools-build-799703: 12/24/12 11:32:27 Reboot requested by Display
+tools-build-799703: 12/24/12 11:32:27 End Logging
+tools-build-799703: 12/24/12 11:32:27 Begin Logging
+tools-build-799703: 12/24/12 11:32:27 Resetting the Icon Cache
+tools-build-799703: 12/24/12 11:32:27 End Logging
+tools-build-799703: 12/24/12 11:32:27 Begin Logging
+tools-build-799703: 12/24/12 11:32:27 --- VMStartVMwareProcesses() : Launching VMWare processes with RunAs.
+tools-build-799703: 12/24/12 11:32:27 Getting Property CustomActionData = C:\Program Files\VMware\VMware Tools\
+tools-build-799703: 12/24/12 11:32:27 <XP>Logged on user token 460
+tools-build-799703: 12/24/12 11:32:27 Found "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"
+tools-build-799703: 12/24/12 11:32:27 CreateProcessAsUser successfully launched "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe" -n vmusr
+tools-build-799703: 12/24/12 11:32:27 End Logging
+tools-build-799703: 12/24/12 11:32:27 Begin Logging
+tools-build-799703: 12/24/12 11:32:27 --- VMInstallVMToolsService() : Installing VMTools service
+tools-build-799703: 12/24/12 11:32:27 Getting Property CustomActionData = C:\Program Files\VMware\VMware Tools\;vmtoolsd.exe;;winmgmt
+tools-build-799703: 12/24/12 11:32:27 Inst_InstallService: Stopping any pre-existing instances of service
+tools-build-799703: 12/24/12 11:32:27 Inst_StopService: Attempting to stop service: 'VMTools' [stop dependents = 1]
+tools-build-799703: 12/24/12 11:32:27 Inst_StopService: Service Manager successfully opened
+tools-build-799703: 12/24/12 11:32:27 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-799703: 12/24/12 11:32:27 Inst_StopService: Service could not be opened: ERROR_SERVICE_DOES_NOT_EXIST
+tools-build-799703: 12/24/12 11:32:27 Inst_InstallService: installing service: VMTools
+tools-build-799703: 12/24/12 11:32:27 Inst_InstallService: service manager opened
+tools-build-799703: 12/24/12 11:32:27 Inst_InstallService: service manager successfully opened
+tools-build-799703: 12/24/12 11:32:27 Dependencies wide char winmgmt
+tools-build-799703: 12/24/12 11:32:28 Inst_InstallService: Service created: VMTools
+tools-build-799703: 12/24/12 11:32:28 Inst_InstallService: Attempting to store service description
+tools-build-799703: 12/24/12 11:32:28 Inst_InstallService: advapi32.dll loaded
+tools-build-799703: 12/24/12 11:32:28 Inst_InstallService: config function loaded
+tools-build-799703: 12/24/12 11:32:28 Inst_InstallService: Description config successful
+tools-build-799703: 12/24/12 11:32:28 Inst_InstallService: returning success
+tools-build-799703: 12/24/12 11:32:28 VMTools service successfully installed
+tools-build-799703: 12/24/12 11:32:28 Inst_StartService: Attempting to start service: VMTools
+tools-build-799703: 12/24/12 11:32:28 Inst_StartService: Service Manager successfully opened
+tools-build-799703: 12/24/12 11:32:28 Inst_StartService: Service successfully opened
+tools-build-799703: 12/24/12 11:32:28 Inst_StartService: Service has been started
+tools-build-799703: 12/24/12 11:32:28 Inst_StartService: service status: SERVICE_START_PENDING cp=0x00000000
+tools-build-799703: 12/23/12 18:32:28 Inst_StartService: service status: SERVICE_RUNNING cp=0x00000000
+tools-build-799703: 12/23/12 18:32:28 Inst_StartService: Service is running
+tools-build-799703: 12/23/12 18:32:28 VMTools service successfully started
+tools-build-799703: 12/23/12 18:32:28 End Logging
+tools-build-799703: 12/23/12 18:32:28 Begin Logging
+tools-build-799703: 12/23/12 18:32:28 --- CA exec: VMServiceConfigRestart
+tools-build-799703: 12/23/12 18:32:28 Getting Property CustomActionData = VMTools;1800;300
+tools-build-799703: 12/23/12 18:32:28 End Logging
+tools-build-799703: 12/23/12 18:32:29 Begin Logging
+tools-build-799703: 12/23/12 18:32:29 --- VMConfigRunRegistry()
+tools-build-799703: 12/23/12 18:32:29 Getting Property CustomActionData = C:\Program Files\VMware\VMware Tools\
+tools-build-799703: 12/23/12 18:32:29 End Logging
+instUtils-build-799703: 12/23/12 18:32:29 Begin Logging
+instUtils-build-799703: 12/23/12 18:32:29 --- VMSetFilePermissions()
+instUtils-build-799703: 12/23/12 18:32:29 Getting Property CustomActionData = C:\ProgramData\VMware\VMware Tools\tools.conf|Administrators:268435456:Everyone:1179817;
+instUtils-build-799703: 12/23/12 18:32:29 File not found C:\ProgramData\VMware\VMware Tools\tools.conf
+instUtils-build-799703: 12/23/12 18:32:29 End Logging
+tools-build-799703: 12/23/12 18:32:30 Begin Logging
+tools-build-799703: 12/23/12 18:32:30 --- VMUpdateManifestFile() : Updating full tools manifest.
+tools-build-799703: 12/23/12 18:32:30 Getting Property VMUpdateManifestDir = C:\ProgramData\VMware\VMware Tools\
+tools-build-799703: 12/23/12 18:32:30 Did not find file/directory: "C:\ProgramData\VMware\VMware Tools\manifest.txt"
+tools-build-799703: 12/23/12 18:32:30 Setting property VMUpdateManifestFull = 0
+tools-build-799703: 12/23/12 18:32:30 Setting property VMUpdateManifest = 0
+tools-build-799703: 12/23/12 18:32:30 End Logging
+tools-build-799703: 12/23/12 18:32:31 Begin Logging
+tools-build-799703: 12/23/12 18:32:31 --- VMCheckReboot()
+tools-build-799703: 12/23/12 18:32:31 Util_NeedReboot: Checking if we need to reboot
+tools-build-799703: 12/23/12 18:32:31 Did not find file/directory: "C:\Users\CODEGA~1\AppData\Local\Temp\\vmreboot.tmp"
+tools-build-799703: 12/23/12 18:32:31 The reboot file does not exist
+tools-build-799703: 12/23/12 18:32:31 Did not find file/directory: "C:\Users\CODEGA~1\AppData\Local\Temp\\vmwareboot.tmp"
+tools-build-799703: 12/23/12 18:32:31 The reboot file does not exist
+tools-build-799703: 12/23/12 18:32:31 Util_GetKeyValueString(HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\NeedReboot\Components) = "vmhgfs;ps2MouseInstall;Display"
+tools-build-799703: 12/23/12 18:32:31 Util_NeedReboot: Reboot required!
+tools-build-799703: 12/23/12 18:32:31 Setting property VMREBOOT = 1
+tools-build-799703: 12/23/12 18:32:31 End Logging
+tools-build-799703: 12/23/12 18:32:31 Begin Logging
+tools-build-799703: 12/23/12 18:32:31 --- VMUnmountImageSuccess() : Unmounting Tools image after successful install
+tools-build-799703: 12/23/12 18:32:31 Unmounting image [1]
+tools-build-799703: 12/23/12 18:32:31 Rpci: Sending request='toolinstall.end 1'
+
+tools-build-799703: 12/23/12 18:32:31 Rpci: Sent request='toolinstall.end 1', reply='', len=0, status=1
+
+tools-build-799703: 12/23/12 18:32:31 End Logging
+tools-build-799703: 12/23/12 18:32:34 Begin Logging
+tools-build-799703: 12/23/12 18:32:34 Getting Property CustomActionData = 
+tools-build-799703: 12/23/12 18:32:34 Getting Property REMOVE = 
+tools-build-799703: 12/23/12 18:32:34 Finishing installation: Releasebuild-799703
+tools-build-799703: 12/23/12 18:32:34 ##############################################################
+tools-build-799703: 12/23/12 18:32:34 End Logging
+BootStrapper-build-799703: 12/23/12 18:32:35 InstallProduct() returned: 3010
+BootStrapper-build-799703: 12/23/12 18:32:35 Util_NeedReboot: Checking if we need to reboot
+BootStrapper-build-799703: 12/23/12 18:32:35 Did not find file/directory: "C:\Users\CODEGA~1\AppData\Local\Temp\\vmreboot.tmp"
+BootStrapper-build-799703: 12/23/12 18:32:35 The reboot file does not exist
+BootStrapper-build-799703: 12/23/12 18:32:35 Did not find file/directory: "C:\Users\CODEGA~1\AppData\Local\Temp\\vmwareboot.tmp"
+BootStrapper-build-799703: 12/23/12 18:32:35 The reboot file does not exist
+BootStrapper-build-799703: 12/23/12 18:32:35 Util_GetKeyValueString(HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\NeedReboot\Components) = "vmhgfs;ps2MouseInstall;Display"
+BootStrapper-build-799703: 12/23/12 18:32:35 Util_NeedReboot: Reboot required!

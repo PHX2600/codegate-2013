@@ -1,0 +1,239 @@
+12/23/2012 20:37:23 Checking for existence of Branding Active Setup stub...
+12/23/2012 20:37:23 InternetExplorerBrandGUID didn't exist: Branding component not installed
+12/23/2012 20:37:23 Inf Version is set to "8,00,7600,16385".
+12/23/2012 20:37:23 HKCU Active Setup Key not found.
+
+12/23/2012 20:37:23    COM initialized with S_OK success code.
+
+12/23/2012 20:37:23 Branding Internet Explorer...
+12/23/2012 20:37:23 Command line is "/mode:isp /peruser".
+
+12/23/2012 20:37:23 Global branding settings are:
+12/23/2012 20:37:23    Context is (0x01C00008) "Internet Content Providers, running from per-user stub";
+12/23/2012 20:37:23    Settings file is        "C:\Program Files\Internet Explorer\Signup\install.ins";
+12/23/2012 20:37:23    Target folder path is   "C:\Program Files\Internet Explorer\Signup".
+12/23/2012 20:37:23 Done.
+
+12/23/2012 20:37:23    About to clear previous branding...
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing migration of old settings...
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing wininet setup...
+12/23/2012 20:37:23    There are no connection settings to process!
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing deletion of connection settings...
+12/23/2012 20:37:23    Existing connection settings weren't specified to be deleted!
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing zones HKCU settings...
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing local machine policies and restrictions...
+12/23/2012 20:37:23    There are no local machine *.inf files to process!
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing current user policies and restrictions...
+12/23/2012 20:37:23    There are no current user *.inf files to process!
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing legacy policies and restrictions...
+12/23/2012 20:37:23        There are no local machine *.inf files to process!
+12/23/2012 20:37:23        There are no current user *.inf files to process!
+12/23/2012 20:37:23    There are no legacy *.inf files to process!
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing general customizations...
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing Help->About customization...
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing browser toolbar buttons...
+12/23/2012 20:37:23    There are no toolbar buttons to process!
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing root certificates...
+12/23/2012 20:37:23    This feature is for ISPs only!
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing default favorites and/or quick links...
+12/23/2012 20:37:23    Creating separate thread for processing default favorites...
+
+12/23/2012 20:37:23    COM initialized with S_OK success code.
+12/23/2012 20:37:23        Determining favorites attributes...
+12/23/2012 20:37:23            <Favorites> folder location is "C:\Users\Administrator\Favorites".
+12/23/2012 20:37:23        marked as Low Integrity,
+12/23/2012 20:37:23        Title     - "Microsoft Websites\IE site on Microsoft.com.url",
+12/23/2012 20:37:23        URL       - "http://go.microsoft.com/fwlink/?linkid=44661",
+12/23/2012 20:37:23        with a default icon,
+12/23/2012 20:37:23        not marked IEAK created,
+12/23/2012 20:37:23        Done.
+12/23/2012 20:37:23        Determining favorites attributes...
+12/23/2012 20:37:23        marked as Low Integrity,
+12/23/2012 20:37:23        Title     - "Microsoft Websites\IE Add-on site",
+12/23/2012 20:37:23        URL       - "http://go.microsoft.com/fwlink/?LinkId=50893",
+12/23/2012 20:37:23        with a default icon,
+12/23/2012 20:37:23        not marked IEAK created,
+12/23/2012 20:37:23        Done.
+12/23/2012 20:37:23        Determining favorites attributes...
+12/23/2012 20:37:23        marked as Low Integrity,
+12/23/2012 20:37:23        Title     - "Microsoft Websites\Microsoft At Home",
+12/23/2012 20:37:23        URL       - "http://go.microsoft.com/fwlink/?linkid=55424",
+12/23/2012 20:37:23        with a default icon,
+12/23/2012 20:37:23        not marked IEAK created,
+12/23/2012 20:37:23        Done.
+12/23/2012 20:37:23        Determining favorites attributes...
+12/23/2012 20:37:23        marked as Low Integrity,
+12/23/2012 20:37:23        Title     - "Microsoft Websites\Microsoft At Work",
+12/23/2012 20:37:23        URL       - "http://go.microsoft.com/fwlink/?linkid=68920",
+12/23/2012 20:37:23        with a default icon,
+12/23/2012 20:37:23        not marked IEAK created,
+12/23/2012 20:37:23        Done.
+12/23/2012 20:37:23        Determining favorites attributes...
+12/23/2012 20:37:23        marked as Low Integrity,
+12/23/2012 20:37:23        Title     - "MSN Websites\MSN",
+12/23/2012 20:37:23        URL       - "http://go.microsoft.com/fwlink/?LinkId=54729",
+12/23/2012 20:37:23        with a default icon,
+12/23/2012 20:37:23        not marked IEAK created,
+12/23/2012 20:37:23        Done.
+12/23/2012 20:37:23        Determining favorites attributes...
+12/23/2012 20:37:23        marked as Low Integrity,
+12/23/2012 20:37:23        Title     - "MSN Websites\MSN Sports",
+12/23/2012 20:37:23        URL       - "http://go.microsoft.com/fwlink/?LinkId=68921",
+12/23/2012 20:37:23        with a default icon,
+12/23/2012 20:37:23        not marked IEAK created,
+12/23/2012 20:37:23        Done.
+12/23/2012 20:37:23        Determining favorites attributes...
+12/23/2012 20:37:23        marked as Low Integrity,
+12/23/2012 20:37:23        Title     - "MSN Websites\MSNBC News",
+12/23/2012 20:37:23        URL       - "http://go.microsoft.com/fwlink/?LinkId=68922",
+12/23/2012 20:37:23        with a default icon,
+12/23/2012 20:37:23        not marked IEAK created,
+12/23/2012 20:37:23        Done.
+12/23/2012 20:37:23        Determining favorites attributes...
+12/23/2012 20:37:23        marked as Low Integrity,
+12/23/2012 20:37:23        Title     - "MSN Websites\MSN Money",
+12/23/2012 20:37:23        URL       - "http://go.microsoft.com/fwlink/?LinkId=68923",
+12/23/2012 20:37:23        with a default icon,
+12/23/2012 20:37:23        not marked IEAK created,
+12/23/2012 20:37:23        Done.
+12/23/2012 20:37:23        Determining favorites attributes...
+12/23/2012 20:37:23        marked as Low Integrity,
+12/23/2012 20:37:23        Title     - "MSN Websites\MSN Entertainment",
+12/23/2012 20:37:23        URL       - "http://go.microsoft.com/fwlink/?LinkId=68924",
+12/23/2012 20:37:23        with a default icon,
+12/23/2012 20:37:23        not marked IEAK created,
+12/23/2012 20:37:23        Done.
+12/23/2012 20:37:23        Determining favorites attributes...
+12/23/2012 20:37:23        marked as Low Integrity,
+12/23/2012 20:37:23        Title     - "MSN Websites\MSN Autos",
+12/23/2012 20:37:23        URL       - "http://go.microsoft.com/fwlink/?LinkId=55143",
+12/23/2012 20:37:23        with a default icon,
+12/23/2012 20:37:23        not marked IEAK created,
+12/23/2012 20:37:23        Done.
+12/23/2012 20:37:23        Determining favorites attributes...
+12/23/2012 20:37:23        marked as Low Integrity,
+12/23/2012 20:37:23        Title     - "Windows Live\Windows Live Mail",
+12/23/2012 20:37:23        URL       - "http://go.microsoft.com/fwlink/?LinkId=68925",
+12/23/2012 20:37:23        with a default icon,
+12/23/2012 20:37:23        not marked IEAK created,
+12/23/2012 20:37:23        Done.
+12/23/2012 20:37:23        Determining favorites attributes...
+12/23/2012 20:37:23        marked as Low Integrity,
+12/23/2012 20:37:23        Title     - "Windows Live\Windows Live Spaces",
+12/23/2012 20:37:23        URL       - "http://go.microsoft.com/fwlink/?LinkId=68927",
+12/23/2012 20:37:23        with a default icon,
+12/23/2012 20:37:23        not marked IEAK created,
+12/23/2012 20:37:23        Done.
+12/23/2012 20:37:23        Determining favorites attributes...
+12/23/2012 20:37:23        marked as Low Integrity,
+12/23/2012 20:37:23        Title     - "Windows Live\Windows Live Gallery",
+12/23/2012 20:37:23        URL       - "http://go.microsoft.com/fwlink/?LinkId=70742",
+12/23/2012 20:37:23        with a default icon,
+12/23/2012 20:37:23        not marked IEAK created,
+12/23/2012 20:37:23        Done.
+12/23/2012 20:37:23        Determining favorites attributes...
+12/23/2012 20:37:23        marked as Low Integrity,
+12/23/2012 20:37:23        Title     - "Windows Live\Get Windows Live",
+12/23/2012 20:37:23        URL       - "http://go.microsoft.com/fwlink/?LinkId=69172",
+12/23/2012 20:37:23        with a default icon,
+12/23/2012 20:37:23        not marked IEAK created,
+12/23/2012 20:37:23        Done.
+12/23/2012 20:37:23        Determining favorites attributes...
+12/23/2012 20:37:23        marked as Low Integrity,
+12/23/2012 20:37:23        Title     - "Microsoft Websites\Microsoft Store",
+12/23/2012 20:37:23        URL       - "http://go.microsoft.com/fwlink/?linkid=140813",
+12/23/2012 20:37:23        with a default icon,
+12/23/2012 20:37:23        not marked IEAK created,
+12/23/2012 20:37:23        Done.
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing deletion of favorites and/or quick links...
+12/23/2012 20:37:23    None of the favorites folders were specified to be deleted!
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing favorites...
+12/23/2012 20:37:23    There are no favorites to add!
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing ordering of favorites...
+12/23/2012 20:37:23    Favorites will be put into the default position!
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing quick links...
+12/23/2012 20:37:23    There are no quick links to add!
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing ordering of quick links...
+12/23/2012 20:37:23    Quick Links will be put into the default position!
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing connection settings...
+12/23/2012 20:37:23    There are no connection settings to process!
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Processing TrustedPublisherLockdown restriction...
+12/23/2012 20:37:23    This restriction is not set!
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Creating feeds...
+12/23/2012 20:37:23 Processing [Feeds] section...
+
+12/23/2012 20:37:23 Processing [FavoritesBar] section for Feeds...
+
+12/23/2012 20:37:23 Processing [FavoritesBar] section for WebSlices...
+
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Creating start pages...
+12/23/2012 20:37:23    There are no start pages to add!
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Creating search providers...
+12/23/2012 20:37:23    There are no search providers to add!
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Installing Activities...
+12/23/2012 20:37:23    There are no Actitivies to Install!
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Installing Unattend Favorite bar items...
+12/23/2012 20:37:23 Cannot Open Registry Key HKCU\SOFTWARE\Microsoft\Internet Explorer\AppliedUnattend [error=2]. It probably doesn't exist. Not an error.
+12/23/2012 20:37:23 ProcessUnattendFavBarItems processing favbaritems from location: SOFTWARE\Microsoft\Internet Explorer\UnattendBackup\ActiveSetup\FavoriteBarItems
+12/23/2012 20:37:23 No subkeys found.
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Installing Unattend Activites...
+12/23/2012 20:37:23 Cannot Open Registry Key HKCU\SOFTWARE\Microsoft\Internet Explorer\AppliedUnattend [error=2]. It probably doesn't exist. Not an error.
+12/23/2012 20:37:23 ProcessUnattendActivities processing activities from location: SOFTWARE\Microsoft\Internet Explorer\UnattendBackup\ActiveSetup\Accelerators
+12/23/2012 20:37:23 No subkeys found.
+12/23/2012 20:37:23    Done.
+
+12/23/2012 20:37:23    Refreshing browser settings...
+12/23/2012 20:37:23    Broadcasting "Windows settings change" to all top level windows...
+12/23/2012 20:37:24    Done.
+12/23/2012 20:37:24 Done.
+12/23/2012 20:37:24 Done.
