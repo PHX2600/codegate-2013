@@ -9,10 +9,9 @@ http://yut.codegate.org/home/#main
 
 
 IRC
-===
+---
+
+Join in the colaboration on IRC:
 
 \#phx2600.ctf on Freenonde
-
-URL: http://yut.codegate.org/home/#main
-
 
