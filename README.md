@@ -15,4 +15,3 @@ Join in the colaboration on IRC:
 
 Server: irc.freenode.net
 Channel: #phx2600.ctf
-
