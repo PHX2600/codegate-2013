@@ -14,6 +14,6 @@ IRC
 
 Join in the colaboration on IRC:
 
-Server: irc.freenode.net
+Server: irc.freenode.net:6667
 
 Channel: #phx2600.ctf
