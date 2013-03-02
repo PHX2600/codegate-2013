@@ -1,5 +1,5 @@
 INFO
-====
+----
 
 http://yut.codegate.org/home/#main
 
