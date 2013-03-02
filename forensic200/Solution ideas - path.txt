@@ -1,0 +1,41 @@
+FOR 200 
+strator24:dir_active_download_flagi1e22:dir_completed_torrents88:C:\Users\CodeGate_Forensic
+\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup27
+
+forensics200/69e315135f2ebfa153d947e3fa29c0c2~/Users/Administrator/AppData/Roaming/uTorrent 
+➜  uTorrent  grep -R completed_torrents88 *                                                
+Binary file settings.dat matches
+Binary file settings.dat.old matches   
+
+Destination Dir C:\Users\CodeGate_Forensic\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+➜  CodeGate_Forensic  cd AppData/Roaming/Microsoft/Windows/Start\ Menu/Programs/Startup    
+➜  Startup  ls
+052b585f1808716e1d12eb55aa646fc4984bc862  desktop.ini                                      
+➜  Startup  md5sum 052b585f1808716e1d12eb55aa646fc4984bc862                                
+449529c93ef6477533be01459c7ee2b4  052b585f1808716e1d12eb55aa646fc4984bc862                 
+➜  Startup                                                        
+
+
+Out[4]: 'd854dbe3b63a87381179b18fa1290c6711f076e7'
+
+In [5]: sha.new("449529c93ef6477533be01459c7ee2b4_2012/12/23_09:45:43").hexdigest()
+Out[5]: '94b680c13d32168dd6581fe15488642e0e526916'
+
+In [6]: sha.new("449529c93ef6477533be01459c7ee2b4_KST, 2012/12/23_09:45:43").hexdigest()
+Out[6]: '5619793f614d09495e931c33ede540f9b83cff6a'
+
+In [7]: sha.new("449529c93ef6477533be01459c7ee2b4_KST, 2012/12/23_09:37:09").hexdigest()
+Out[7]: '016de1e9ec1b6fe64653eb9d1f5be3512f35a115'
+
+In [8]: sha.new("449529c93ef6477533be01459c7ee2b4_KST, 2012/12/23_21:37:09").hexdigest()
+Out[8]: '5fdbebd545ea144bbe0ea3863f9839b6f91dc7a2'
+
+In [9]: sha.new("449529c93ef6477533be01459c7ee2b4_Download Time").hexdigest()
+Out[9]: '2d2f3d4a0f7ee340265248acd1d47776bf714e6c'
+
+In [10]:
+KeyboardInterrupt
+
+In [10]: sha.new("052b585f1808716e1d12eb55aa646fc4984bc862_Download Time").hexdigest()
+Out[10]: 'ea6b160d15be249df683d1419e1826db899f38f7'
