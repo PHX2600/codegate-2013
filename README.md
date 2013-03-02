@@ -1,5 +1,5 @@
-INFO
-----
+Event Info
+----------
 
 http://yut.codegate.org/home/#main
 
@@ -9,8 +9,8 @@ http://yut.codegate.org/home/#main
     Pass:   ^sdfbsd7&wdf$Dbfsd
 
 
-Colaborate IRC
---------------
+Colaborate on IRC
+-----------------
 
 *Server:* irc.freenode.net:6667
 
