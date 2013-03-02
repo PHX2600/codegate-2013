@@ -13,5 +13,6 @@ IRC
 
 Join in the colaboration on IRC:
 
-\#phx2600.ctf on Freenonde
+Server: irc.freenode.net
+Channel: #phx2600.ctf
 
