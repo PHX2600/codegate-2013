@@ -9,10 +9,8 @@ http://yut.codegate.org/home/#main
     Pass:   ^sdfbsd7&wdf$Dbfsd
 
 
-IRC
----
-
-Join in the colaboration on IRC:
+Colaborate IRC
+--------------
 
 *Server:* irc.freenode.net:6667
 
