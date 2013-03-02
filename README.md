@@ -5,7 +5,7 @@ http://yut.codegate.org/home/#main
 
 ### LOGIN
 
-    User:       AltF4
+    User:   AltF4
     Pass:   ^sdfbsd7&wdf$Dbfsd
 
 
